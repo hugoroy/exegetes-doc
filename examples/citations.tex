@@ -1,0 +1,66 @@
+\documentclass[french,]{article}
+\usepackage{lmodern}
+\usepackage{amssymb,amsmath}
+\usepackage{ifxetex,ifluatex}
+\usepackage{fixltx2e} % provides \textsubscript
+\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+\else % if luatex or xelatex
+  \usepackage{fontspec}
+  \defaultfontfeatures{Ligatures=TeX,Scale=MatchLowercase}
+  \newcommand{\euro}{€}
+\fi
+% use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+% use microtype if available
+\IfFileExists{microtype.sty}{%
+\usepackage{microtype}
+\UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\usepackage[]{hyperref}
+
+\PassOptionsToPackage{usenames,dvipsnames}{color} % color is loaded by hyperref
+
+\hypersetup{unicode=true,
+            pdfborder={0 0 0},
+            breaklinks=true}
+\urlstyle{same}  % don't use monospace font for urls
+\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+  \usepackage[shorthands=off,main=french]{babel}
+\else
+  \usepackage{polyglossia}
+  \setmainlanguage[]{french}
+\fi
+\setlength{\parindent}{16pt}
+\setlength{\parskip}{6pt plus 2pt minus 1pt}
+\setlength{\emergencystretch}{3em}  % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{0}
+
+
+
+\begin{document}
+
+
+
+Comme dans l'arrêt CJUE, g\textsuperscript{de}~ch., 8 avr. 2014,
+\emph{Digital Rights Ireland}, C-293/12, C-594/12, §~57 etc.
+
+\section*{Bibliographie}\label{bibliographie}
+\addcontentsline{toc}{section}{Bibliographie}
+
+\hyperdef{}{refs}{\label{refs}}
+\hyperdef{}{ref-cjueDRI}{\label{ref-cjueDRI}}
+CJUE, g\textsuperscript{de}~ch., 8 avr. 2014, \emph{Digital Rights
+Ireland Ltd contre Minister for Communications, Marine and Natural
+Resources et autres et Kärntner Landesregierung et autres}, C-293/12,
+C-594/12
+\textless{}\url{http://curia.europa.eu/juris/documents.jsf?num=C-293/12}\textgreater{}
+
+
+
+
+
+\end{document}

@@ -1,0 +1,20 @@
+\titleclass{\chapter}{straight}
+%\titleformat{\chapter}[display]{\huge\sffamily\bfseries}{}{0pt}{\thechapter. }
+%\renewcommand{\thechapter}{\Roman{chapter}}
+\titleformat{\chapter}[hang]{\bfseries}{}{0pt}{\thechapter.~}
+%\titleformat{name=\chapter,numberless}[display]{\centering\Large}{}{0pt}{%
+%\scshape\MakeLowercase}
+\renewcommand{\thesection}{\thechapter.\arabic{section}}
+\titleformat{\section}[hang]{\bfseries}{}{0pt}{\thesection.~}
+\titleformat{\subsection}[hang]{\bfseries}{}{0pt}{\thesubsection.~}
+\titleformat{\subsubsection}[hang]{\bfseries}{}{0pt}{\thesubsubsection.~}
+
+\titlespacing{\chapter}{0pt}{0pt}{0pt}
+\titlespacing{\section}{0pt}{0pt}{0pt}
+\titlespacing{\subsection}{0pt}{0pt}{0pt}
+\titlespacing{\subsubsection}{0pt}{0pt}{0pt}
+
+\newpagestyle{cedh}[\scriptsize\scshape]{
+\sethead[][FDN, FFDN \& LQDN contre France -- Annexe][]{}{FDN, FFDN \& LQDN contre France -- Annexe}{}
+\setfoot[][\footnotesize\thepage][]{}{\footnotesize\thepage}{}
+}
