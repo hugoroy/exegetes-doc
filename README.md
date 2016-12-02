@@ -18,10 +18,8 @@ Ces outils de production de documents nécessitent :
 
     Par exemple avec `pip install pandocfilters pandoc-latex-environment`
 
-## Description des composants
+## Description 
 
-Il y a trois grandes sortes de composants utilisés pour produire nos
-documents à partir de nos fichiers sources.
 
 ### Pandoc et Filtres
 
