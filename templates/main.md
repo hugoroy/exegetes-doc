@@ -97,6 +97,10 @@ header-includes:
   - \counterwithout{footnote}{chapter}
   - \input ../../exegetesDoc/data/titleclass
   - \parskip=6pt
+  - \usepackage{tocloft}
+  - \setlength\cftchapnumwidth{2em}
+  - \setlength\cftsecindent{2.2em}
+  - \setlength\cftsecnumwidth{1.6em}
 euro: true
 include-before:
   - \pagestyle{plain}
