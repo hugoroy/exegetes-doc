@@ -1,9 +1,9 @@
 <!-- 
 Aide Markdown (gras, titre, citation): http://commonmark.org/help/ 
        Manuel d'utilisation : http://pandoc.org/MANUAL.html 
-       Test en ligne : http://pandoc.org/try/ -->
+       Test en ligne : http://pandoc.org/try/ 
 
-Pour faire un commentaire : ne pas utiliser le signe "%" mais utiliser le style HTML tel qu'ici -->
+Pour faire un commentaire : ne pas utiliser le signe "%" mais utiliser le style HTML tel qu'ici 
 
 Wiki : https://exegetes.eu.org/amateurs/doku.php?id=FIXME
 PDF : https://nuage.exegetes.eu.org/remote.php/webdav/Commun/outils/FIXME
@@ -22,7 +22,7 @@ title-meta: ""
 
 # Discussion -- Légalité externe
 
-# Discussion -- Légalite interne
+# Discussion -- Légalité interne
 
 
 
@@ -95,13 +95,13 @@ header-includes:
   - \setcounter{tocdepth}{2}
   - \setcounter{secnumdepth}{4}
   - \counterwithout{footnote}{chapter}
-  - \input ../data/titleclass
+  - \input ../../exegetesDoc/data/titleclass
   - \parskip=6pt
 euro: true
 include-before:
   - \pagestyle{plain}
-csl: ../pandocincludes/french-legal.csl
-bibliography: ../data/references.yaml
+csl: ../../exegetesDoc/pandocincludes/french-legal.csl
+bibliography: ../../exegetesDoc/data/references.yaml
 latex-environment:
   loi: [loi]
   parl: [parl]
