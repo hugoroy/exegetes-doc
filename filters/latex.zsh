@@ -2,4 +2,5 @@
 
 sed 's#"html","<Llap>"#"latex","\\\\Llap\{«\ \}"#g'| \
     sed 's#"html","<piece>"#"latex","\\\\piece\{"#g' | \
-    sed 's#"html","<\/piece>"#"latex","\}"#g' 
+    sed 's#"html","<\/piece>"#"latex","\}"#g' | \
+    echo 'Conversions en LaTeX... fait.'

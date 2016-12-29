@@ -1,3 +1,5 @@
 #!/bin/zsh
 
-sed 's#"html","<Llap>"#"html","<span class=Llap>« </span>"#g'
+sed 's#"html","<Llap>"#"html","<span class=Llap>« </span>"#g' | \
+    echo 'Conversions en HTML... fait.'
+    
