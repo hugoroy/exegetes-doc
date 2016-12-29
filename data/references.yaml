@@ -984,4 +984,24 @@ references:
   title: "Michael Schwarz c. Stadt Bochum"
   title-short: "Schwarz"
   number: C-291/12
+- type: legal_case
+  id: cetatJoannides
+  authority: Conseil d’État
+  issued:
+    year: 1990
+    month: 05
+    day: 02
+  title: "Joannides"
+  title-short: "Joannides"
+  number: n^o^ 86662
+- type: legal_case
+  id: cetatUnionpharma
+  authority: Conseil d’État
+  issued:
+    year: 1968
+    month: 10
+    day: 16
+  title: "Union nationale des grandes pharmacies de France"
+  title-short: "Union nationale des grandes pharmacies de France"
+  number: n^os^ 69186, 69206 et 70749, Rec. p. 488
 ...
