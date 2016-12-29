@@ -973,4 +973,15 @@ references:
     day: 19
   title: "Mme B... A..."
   number: n^o^ 397623
+- type: legal_case
+  id: cjueSchwarz
+  authority: CJUE
+  section: 4^e^ ch.
+  issued:
+    year: 2013
+    month: 10
+    day: 17
+  title: "Michael Schwarz c. Stadt Bochum"
+  title-short: "Schwarz"
+  number: C-291/12
 ...
