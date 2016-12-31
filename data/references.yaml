@@ -465,7 +465,7 @@ references:
     day: 22
   title: Loi relative à la protection de l'identité
   title-short: Loi relative à la protection de l'identité
-  number: DC 2012-652
+  number: 2012-652 DC 
   ECLI: ECLI:FR:CC:2012:2012.652.DC 
   URL: http://www.conseil-constitutionnel.fr/decision/2012/2012-652-dc/decision-n-2012-652-dc-du-22-mars-2012.105165.html
   comments:
@@ -479,7 +479,7 @@ references:
     day: 23
   title: Loi relative au renseignement
   title-short: Loi renseignement
-  number: DC 2015-713
+  number: 2015-713 DC
   ECLI:
   URL:
   comments:
@@ -507,7 +507,7 @@ references:
     day: 26
   title: "Loi relative aux mesures de surveillance des communications électroniques internationales"
   title-short: Loi surveillance internationale
-  number: DC 2015-722
+  number: 2015-722 DC
   ECLI:
   URL:
   comments:
@@ -521,7 +521,7 @@ references:
     day: 19
   title: "Loi relative à la lutte contre le terrorisme et portant dispositions diverses relatives à la sécurité et aux contrôles frontaliers"
   title-short: "Loi terrorisme"
-  number: DC 2005-532
+  number: 2005-532 DC
   ECLI:
   URL:
   comments:
@@ -535,7 +535,7 @@ references:
     day: 24
   title: Association French Data Network et autres
   title-short: FDN
-  number: QPC 2015-478
+  number: 2015-478 QPC 
   ECLI:
   URL:
   comments:
@@ -549,7 +549,7 @@ references:
     day: 10
   title: "Loi favorisant la diffusion et la protection de la création sur internet"
   title-short: Loi Hadopi
-  number: DC 2009-580
+  number: 2009-580 DC
   ECLI:
   URL:
   comments:
@@ -704,7 +704,7 @@ references:
     month: 03
     day: 03
   title: Loi audiovisuel
-  number: DC 2009/577
+  number: 2009/577 DC 
 - type: legal_case
   id: cetatKpmg
   authority: Conseil d’État
@@ -873,7 +873,7 @@ references:
     day: 13
   title: "SAS VESTEL France et autre [Perquisitions douanières]"
   title-short: "SAS Vestel France"
-  number: QPC 2011-150
+  number: 2011-150 QPC 
   ECLI:
   URL:
   comments:
@@ -887,7 +887,7 @@ references:
     day: 23
   title: "Loi portant création d'une couverture maladie universelle"
   title-short: "Loi couverture maladie universelle"
-  number: DC 99-416
+  number: 99-416 DC 
   ECLI:
   URL:
   comments:
@@ -901,7 +901,7 @@ references:
     day: 21
   title: "Loi portant diverses dispositions en matière d'urbanisme et de construction"
   title-short: "Loi urbanisme et construction"
-  number: DC 93-335
+  number: 93-335 DC 
   ECLI:
   URL:
   comments:
@@ -915,7 +915,7 @@ references:
     day: 18
   title: "Loi relative à la liberté de communication"
   title-short: "Liberté de communication"
-  number: DC 86-217
+  number: 86-217 DC 
   ECLI:
   URL:
   comments:
