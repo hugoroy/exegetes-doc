@@ -1,21 +1,19 @@
-<!-- 
-Aide Markdown (gras, titre, citation): http://commonmark.org/help/ 
-       Manuel d'utilisation : http://pandoc.org/MANUAL.html 
+<!--  Aide pour écrire en Markdown (gras, titre, citation, etc.): http://commonmark.org/help/ 
+       Manuel d'utilisation : http://pandoc.org/MANUAL.html#pandocs-markdown
        Test en ligne : http://pandoc.org/try/ 
-
-Pour faire un commentaire : ne pas utiliser le signe "%" mais utiliser le style HTML tel qu'ici 
+       Pour faire un commentaire : ne pas utiliser le signe "%" mais utiliser le style HTML tel qu'ici 
 
 Wiki : https://exegetes.eu.org/amateurs/doku.php?id=FIXME
 PDF : https://nuage.exegetes.eu.org/remote.php/webdav/Commun/outils/FIXME
 -->
 
 ---
-title-meta: ""
+title-meta: "Titre du fichier"
 ...
 
-<!-- Page de garde LaTeX : https://pad.exegetes.eu.org/group.html/FIXME --> \input FIXME.tex
+<!-- Page de garde LaTeX : https://pad.exegetes.eu.org/group.html/FIXME --> \input{garde.tex}
 
-<!-- Table des matières --> \tableofcontents \thispagestyle{empty}\setcounter{page}{0} -->
+<!-- Table des matières --> \tableofcontents \thispagestyle{empty}\setcounter{page}{0}
 
 
 # Faits
@@ -27,34 +25,37 @@ title-meta: ""
 
 
 
-<!-- Dispositif --> \clearpage
+<!-- Dispositif --> \clerpage \renewcommand{\para}{\noindent}
 
-\vfill
+<vfill>
 
-**Par ces motifs,** et tous autres à produire, déduire, suppléer, au besoin même d’office, FIXME:
+**Par ces motifs,** et tous autres à produire, déduire, suppléer, au besoin même d’office, les associations requérantes persistent dans les conclusions de leurs précédentes écritures.
+
+**Par ces motifs,** et tous autres à produire, déduire, suppléer, au besoin même d’office, les associations requérantes concluent à ce que le Conseil d'État:
     
-FIXME
+ - <span style="font-variant:small-caps">annule</span> la décision attaquée ;
+
+<bigskip>
 
 Avec toutes conséquences de droit.
 
-\vfill
+<vfill>
 
-\begin{center}Le FIXME à Paris,
+<center>Le FIXME à Paris,
 
-FIXME
-\end{center}
+Pour FIXME
 
-\vfill \vfill 
+Prénom <span style="font-variant:small-caps">Nom</span>
+</center>
+
+<vfill><vfill>
 
 
 
 
 # Productions au soutien de la requête  {.unnumbered}
 
-
-1. FIXME \label{itm:fixme}
-
-
+1. FIXME <label>itm:fixme</label>
 
 
 
@@ -80,22 +81,23 @@ header-includes:
   - \else 
   - \renewcommand{\labelitemi}{--}
   - \fi
+  - \newcommand{\piece}[1]{{\sffamily\small (prod.~n\textsuperscript{o}~\textbf{\ref{itm:#1}})}}
+  - \newcommand{\pieces}[2]{{\sffamily\small (productions n\textsuperscript{os}~\textbf{\ref{itm:#1}} \&~\textbf{\ref{itm:#2}})}}
+  - \newcounter{paranumero}
+  - \newif\ifcounting\countingtrue
+  - \newcommand{\para}[1]{\noindent\ifcounting\refstepcounter{paranumero}\fi{\small\strut\llap{\textsf{\scriptsize \theparanumero}\quad\quad}}\label{#1}}
+  - \newcommand{\parnum}[1]{\textsf{\scriptsize ¶~\ref{#1}}}
   - \let\oldquote\quote
   - \let\endoldquote\endquote
   - \renewenvironment{quote}{\begin{oldquote}\renewcommand{\para}[1]{}}{\end{oldquote}}
   - \newenvironment{loi}{\begin{quote}\sffamily}{\end{quote}}
   - \newenvironment{parl}{\begin{quote}\itshape}{\end{quote}}
   - \newenvironment{jpref}{\sffamily\parskip 9pt \parindent 0pt \noindent }{}
-  - \newcommand{\piece}[1]{{\sffamily\small (prod.~n\textsuperscript{o}~\textbf{\ref{itm:#1}})}}
-  - \newcommand{\pieces}[2]{{\sffamily\small (productions n\textsuperscript{os}~\textbf{\ref{itm:#1}} \&~\textbf{\ref{itm:#2}})}}
-  - \newcounter{paranumero}
-  - \newif\ifcounting\countingtrue
-  - \newcommand{\para}[1]{\noindent\ifcounting\refstepcounter{paranumero}\fi{\small\strut\llap{\textsf{\scriptsize \theparanumero}\quad\quad}}\label{#1}}
   - \def\Llap{\ifhmode\ERROR\fi\strut\llap}
   - \setcounter{tocdepth}{2}
   - \setcounter{secnumdepth}{4}
   - \counterwithout{footnote}{chapter}
-  - \input ../../exegetesDoc/data/titleclass
+  - \input{../../exegetesDoc/pandocincludes/titleclass}
   - \parskip=6pt
   - \usepackage{tocloft}
   - \setlength\cftchapnumwidth{2em}
@@ -106,6 +108,7 @@ include-before:
   - \pagestyle{plain}
 csl: ../../exegetesDoc/pandocincludes/french-legal.csl
 bibliography: ../../exegetesDoc/data/references.yaml
+css: ../../exegetesDoc/pandocincludes/stylesheet.css
 latex-environment:
   loi: [loi]
   parl: [parl]
