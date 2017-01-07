@@ -1,4 +1,5 @@
-<!--  Aide pour écrire en Markdown (gras, titre, citation, etc.): http://commonmark.org/help/ 
+<!-- AIDE pour les PADS : <https://pad.exegetes.eu.org/group.html/5/pad.html/g.9PizVXtKx3X5Vpe3$Aide-Pad-Pandoc-markdown>
+       Aide pour écrire en Markdown (gras, titre, citation, etc.): http://commonmark.org/help/ 
        Manuel d'utilisation : http://pandoc.org/MANUAL.html#pandocs-markdown
        Test en ligne : http://pandoc.org/try/ 
        Pour faire un commentaire : ne pas utiliser le signe "%" mais utiliser le style HTML tel qu'ici 
