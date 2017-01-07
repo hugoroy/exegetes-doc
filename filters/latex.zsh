@@ -11,6 +11,8 @@ sed 's#"html","<Llap>"#"latex","\\\\Llap\{«\ \}"#g'| \
     sed 's#"html","<\/ref>"#"latex","\}"#g' | \
     sed 's#"html","<parnum>"#"latex","\\\\parnum\{"#g' | \
     sed 's#"html","<\/parnum>"#"latex","\}"#g' | \
+    sed 's#"html","<vparnum>"#"latex","\\\\vparnum\{"#g' | \
+    sed 's#"html","<\/vparnum>"#"latex","\}"#g' | \
     sed 's#"html","<label>"#"latex","\\\\label\{"#g' | \
     sed 's#"html","<\/label>"#"latex","\}"#g' | \
     sed 's#"html","<center>"#"latex","\\\\begin\{center\}"#g' | \

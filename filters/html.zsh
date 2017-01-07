@@ -13,6 +13,8 @@ sed 's#"html","<Llap>"#"html","<span class=Llap>« </span>"#g' | \
     sed 's#"html","<\/ref>"#"html",">🔗<\/a>"#g' | \
     sed 's#"html","<parnum>"#"html","<a href=\#"#g'  | \
     sed 's#"html","<\/parnum>"#"html",">¶<\/a>"#g' | \
+    sed 's#"html","<vparnum>"#"html","<a href=\#"#g'  | \
+    sed 's#"html","<\/vparnum>"#"html",">¶<\/a>"#g' | \
     sed 's#"html","<label>"#"html","<span id="#g'  | \
     sed 's#"html","<\/label>"#"html","><\/span>"#g' 
     

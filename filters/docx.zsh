@@ -12,4 +12,6 @@ sed 's#"t":"RawInline","c":\["html","<vfill>"\]#"t":"Str","c":"* * *"#g'  | \
     sed 's#"t":"RawInline","c":\["html","<ref>"\]#"t":"Str","c":"\#"#g'  | \
     sed 's#"t":"RawInline","c":\["html","<\/ref>"\]#"t":"Str","c":""#g' | \
     sed 's#"t":"RawInline","c":\["html","<parnum>"\]#"t":"Str","c":"\[¶ "#g'  | \
-    sed 's#"t":"RawInline","c":\["html","<\/parnum>"\]#"t":"Str","c":"\]"#g' 
+    sed 's#"t":"RawInline","c":\["html","<\/parnum>"\]#"t":"Str","c":"\]"#g' | \
+    sed 's#"t":"RawInline","c":\["html","<vparnum>"\]#"t":"Str","c":"\[¶ "#g'  | \
+    sed 's#"t":"RawInline","c":\["html","<\/vparnum>"\]#"t":"Str","c":"\]"#g' 
