@@ -17,7 +17,8 @@ p {
     text-align: justify;
 }
 
-center { text-align: center; }
+center, center * { text-align: center; }
+
 
 .loi {
     margin: 0 3em;
