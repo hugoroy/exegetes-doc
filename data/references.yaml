@@ -1004,4 +1004,18 @@ references:
   title: "Union nationale des grandes pharmacies de France"
   title-short: "Union nationale des grandes pharmacies de France"
   number: n^os^ 69186, 69206 et 70749, Rec. p. 488
+- type: legal_case
+  id: cjueTele2
+  authority: CJUE
+  section: g^de^ ch.
+  issued:
+    year: 2016
+    month: 12
+    day: 21
+  title: "Tele2 Sverige AB c. Postoch telestyrelsen et Secretary of State for the Home Department"
+  title-short: Tele2 Sverige
+  number: C-203/15, C-698/15
+  ECLI: "ECLI:EU:C:2016:970"
+  URL: http://curia.europa.eu/juris/documents.jsf?num=C-362/14
+  comments:
 ...
