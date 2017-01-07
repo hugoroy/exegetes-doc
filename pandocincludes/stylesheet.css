@@ -1,0 +1,30 @@
+
+body {
+    font-family: "serif", serif;
+    max-width: 600px;
+    margin: 4em auto;
+}
+
+h1 {
+    font-variant: small-caps;
+    text-transform: lowercase;
+    text-align: center;
+    font-weight: 300;
+}
+
+p {
+    line-height: 1.35em;
+    text-align: justify;
+}
+
+center { text-align: center; }
+
+.loi {
+    margin: 0 3em;
+    font-family: sans-serif;
+}
+
+.loi .Llap {
+    position: absolute;
+    margin-left: -1em;
+}
