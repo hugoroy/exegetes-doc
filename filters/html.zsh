@@ -1,4 +1,4 @@
-#!/bin/zsh
+#!/bin/bash
 
 sed 's#"html","<Llap>"#"html","<span class=Llap>« </span>"#g' | \
     sed 's#"html","<bigskip>"#"html"," "#g' | \
