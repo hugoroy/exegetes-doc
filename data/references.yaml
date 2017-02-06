@@ -1018,4 +1018,231 @@ references:
   ECLI: "ECLI:EU:C:2016:970"
   URL: http://curia.europa.eu/juris/documents.jsf?num=C-362/14
   comments:
+- type: legal_case
+  id: cetatLoppsiCaze
+  authority: Conseil d’État
+  issued:
+    year: 2016
+    month: 02
+    day: 15
+  title: ""
+  title-short: ""
+  number: n^os^ 389896 et 389896
+- type: legal_case
+  id: cetatArtigue
+  authority: Conseil d’État
+  issued: 
+    year: 1915
+    month: 11
+    day: 12
+  title: "Abbé Artigue"
+  title-short: "Abbé Artigue"
+  number: Rec. p. 309
+- type: legal_case
+  id: cetatCadel
+  authority: Conseil d’État
+  section: Sect.
+  issued: 
+    year: 1931
+    month: 01
+    day: 09
+  title: "Abbé Cadel"
+  title-short: "Abbé Cadel"
+  number: Rec. p. 11
+- type: legal_case
+  id: cetatMathian
+  authority: Conseil d’État
+  section: Ass.
+  issued: 
+    year: 1946
+    month: 11
+    day: 22
+  title: "Mathian"
+  title-short: "Mathian"
+  number: Rec. p. 278
+- type: legal_case
+  id: cetatFroment
+  authority: Conseil d’État
+  section: Sect.
+  issued: 
+    year: 1966
+    month: 11
+    day: 18
+  title: "Froment"
+  title-short: "Froment"
+  number: Rec. p. 607
+- type: legal_case
+  id: cetatGarnotel
+  authority: Conseil d’État
+  issued: 
+    year: 1978
+    month: 02
+    day: 10
+  title: "Garnotel"
+  title-short: "Garnotel"
+  number: Rec. p. 905
+- type: legal_case
+  id: cetatSandre
+  authority: Conseil d’État
+  issued: 
+    year: 1980
+    month: 07
+    day: 25
+  title: "Sandre"
+  title-short: "Sandre"
+  number: Rec. p. 325
+- type: legal_case
+  id: cetatDivier
+  authority: Conseil d’État
+  issued: 
+    year: 1986
+    month: 07
+    day: 25
+  title: "Divier"
+  title-short: "Divier"
+  number: Rec. p. 208
+- type: legal_case
+  id: cetatScientologie
+  authority: Conseil d’État
+  section: Sect.
+  issued: 
+    year: 1988
+    month: 10
+    day: 27
+  title: "Église de scientologie de Paris"
+  title-short: "Scientologie"
+  number: Rec. p. 354
+- type: legal_case
+  id: cetatCreditmut
+  authority: Conseil d’État
+  issued: 
+    year: 2006
+    month: 01
+    day: 16
+  title: "Fédération du Crédit mutuel du Centre Est Europe"
+  title-short: "Féd. du Crédit mutuel"
+  number: n^o^ 274721
+- type: legal_case
+  id: cetatJehovah
+  authority: Conseil d’État
+  issued: 
+    year: 2008
+    month: 08
+    day: 07
+  title: "Témoins de Jéhovah"
+  title-short: "Témoins de Jéhovah"
+  number: n^o^ 310220
+- type: legal_case
+  id: cetatMedecins
+  authority: Conseil d’État
+  issued: 
+    year: 1992
+    month: 07
+    day: 10
+  title: "Syndicat des médecins libéraux et autres"
+  title-short: "Syndicat des médecins libéraux"
+  number: n^os^ 105440, 106591, 110194 et 121353, Rec. p. 289
+- type: legal_case
+  id: cetatSeita
+  authority: Conseil d’État
+  issued: 
+    year: 1993
+    month: 02
+    day: 25
+  title: "Comité central d'entreprise de la SEITA"
+  title-short: "SEITA"
+  number: n^o^ 122993 
+- type: legal_case
+  id: cetatPromouvoir
+  authority: Conseil d’État
+  issued: 
+    year: 2000
+    month: 10
+    day: 06
+  title: "Association Promouvoir"
+  title-short: "Association Promouvoir"
+  number: n^o^ 216901 
+- type: legal_case
+  id: cetatRaiff
+  authority: Conseil d’État
+  issued: 
+    year: 1994
+    month: 10
+    day: 28
+  title: "Raiff"
+  title-short: "Raiff"
+  number: n^o^ 59767
+- type: legal_case
+  id: cetat23mai2014
+  authority: Conseil d’État
+  section: ord.
+  issued: 
+    year: 2014
+    month: 05
+    day: 23
+  title: ""
+  title-short: ""
+  number: n^o^ 380560
+- type: legal_case
+  id: cetatLaudon
+  authority: Conseil d’État
+  section: Ass.
+  issued: 
+    year: 1969
+    month: 06
+    day: 06
+  title: "Dame Laudon et autres"
+  title-short: "Laudon"
+  number: Rec. p. 288
+- type: legal_case
+  id: cetatNavigationaerienne
+  authority: Conseil d’État
+  section: Ass.
+  issued: 
+    year: 1982
+    month: 12
+    day: 22
+  title: "Comité central d'entreprise de la société française d'équipement pour la navigation aérienne"
+  title-short: "S^té^ fra. d'équipement pour la navigation aérienne"
+  number: Rec. p. 436
+- type: legal_case
+  id: cetatCusenier
+  authority: Conseil d’État
+  issued: 
+    year: 1986
+    month: 03
+    day: 12
+  title: "Ministre de la culture c. M^me^ Cusenier"
+  title-short: "Cusenier"
+  number: Rec. T p. 403
+- type: legal_case
+  id: cetatPoliciers
+  authority: Conseil d’État
+  issued: 
+    year: 1993
+    month: 02
+    day: 03
+  title: "Union syndicale professionnelle des policiers municipaux"
+  title-short: "Union syndicale professionnelle des policiers municipaux"
+  number: n^o^ 100832, Rec. p. 25
+- type: legal_case
+  id: cetatMonuments
+  authority: Conseil d’État
+  issued: 
+    year: 1986
+    month: 02
+    day: 21
+  title: "Compagnie des architectes en chef des monuments historiques"
+  title-short: "Co. des architectes en chef des monuments historiques"
+  number: Rec. p. 45
+- type: legal_case
+  id: cetatENA
+  authority: Conseil d’État
+  issued: 
+    year: 1993
+    month: 06
+    day: 04
+  title: "Association des anciens élèves de l'ENA, Denis et Mme Laigneau"
+  title-short: "Association des anciens élèves de l'ENA"
+  number: Rec. p. 526
 ...

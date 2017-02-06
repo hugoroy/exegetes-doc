@@ -26,7 +26,7 @@ title-meta: "Titre du fichier"
 
 
 
-<!-- Dispositif --> \clerpage \renewcommand{\para}{\noindent}
+<!-- Dispositif --> \clearpage \renewcommand{\para}{\noindent}
 
 <vfill>
 
@@ -36,9 +36,6 @@ title-meta: "Titre du fichier"
     
  - <span style="font-variant:small-caps">annule</span> la décision attaquée ;
 
-<bigskip>
-
-Avec toutes conséquences de droit.
 
 <vfill>
 
@@ -87,8 +84,8 @@ header-includes:
   - \newcounter{paranumero}
   - \newif\ifcounting\countingtrue
   - \newcommand{\para}[1]{\noindent\ifcounting\refstepcounter{paranumero}\fi{\small\strut\llap{\textsf{\scriptsize \theparanumero}\quad\quad}}\label{#1}}
-  - \newcommand{\parnum}[1]{\textsf{\small ¶~\ref{#1}}}
-  - \newcommand{\vparnum}[1]{\textsf{\small ¶~\ref{#1}} page~\pageref{#1}}
+  - \newcommand{\parnum}[1]{\textsf{¶\thinspace\ref{#1}}}
+  - \newcommand{\vparnum}[1]{\textsf{¶\thinspace\ref{#1}} page~\pageref{#1}}
   - \let\oldquote\quote
   - \let\endoldquote\endquote
   - \renewenvironment{quote}{\begin{oldquote}\renewcommand{\para}[1]{}}{\end{oldquote}}
@@ -108,9 +105,9 @@ header-includes:
 euro: true
 include-before:
   - \pagestyle{plain}
-csl: ../../exegetesDoc/pandocincludes/french-legal.csl
-bibliography: ../../exegetesDoc/data/references.yaml
-css: ../../exegetesDoc/pandocincludes/stylesheet.css
+csl: french-legal.csl
+bibliography: references.yaml
+css: stylesheet.css
 latex-environment:
   loi: [loi]
   parl: [parl]

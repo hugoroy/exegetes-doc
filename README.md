@@ -11,7 +11,7 @@ Amateurs. [Site web](https://exegetes.eu.org/outils/).
 Ces outils de production de documents nécessitent :
 
 * [Pandoc] *dans une version récente*
-* LaTeX
+* LaTeX (notamment texlive-lang-french par exemple)
 * Python
     * pandocfilters
     * pandoc-latex-environment
