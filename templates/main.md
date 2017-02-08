@@ -79,8 +79,8 @@ header-includes:
   - \else 
   - \renewcommand{\labelitemi}{--}
   - \fi
-  - \newcommand{\piece}[1]{{\sffamily\small (prod.~n\textsuperscript{o}~\textbf{\ref{itm:#1}})}}
-  - \newcommand{\pieces}[2]{{\sffamily\small (productions n\textsuperscript{os}~\textbf{\ref{itm:#1}} \&~\textbf{\ref{itm:#2}})}}
+  - \newcommand{\piece}[1]{{\sffamily\small (prod.\nobreak\hspace{0.035in}n\textsuperscript{o}\nobreak\hspace{0.035in}\textbf{\ref{itm:#1}})}}
+  - \newcommand{\pieces}[2]{{\sffamily\small (prod.\nobreak\hspace{0.035in}n\textsuperscript{os}\nobreak\hspace{0.035in}\textbf{\ref{itm:#1}}\hspace{0.035in}\&\nobreak\hspace{0.035in}\textbf{\ref{itm:#2}})}}
   - \newcounter{paranumero}
   - \newif\ifcounting\countingtrue
   - \newcommand{\para}[1]{\noindent\ifcounting\refstepcounter{paranumero}\fi{\small\strut\llap{\textsf{\scriptsize \theparanumero}\quad\quad}}\label{#1}}
