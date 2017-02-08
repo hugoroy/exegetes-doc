@@ -1245,4 +1245,15 @@ references:
   title: "Association des anciens élèves de l'ENA, Denis et Mme Laigneau"
   title-short: "Association des anciens élèves de l'ENA"
   number: Rec. p. 526
+- type: legal_case
+  id: cetatMAD
+  authority: Conseil d’État
+  section: Form. spé.
+  issued: 
+    year: 2016
+    month: 10
+    day: 19
+  title: "M. A... D..."
+  title-short: "A... D..."
+  number: n^o^ 396958
 ...
