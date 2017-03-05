@@ -931,6 +931,17 @@ references:
   title-short: Bellet c. France
   number: n^o^ 23805/94
 - type: legal_case
+  id: cedhDeSouza
+  authority: Cour EDH
+  section: g^de^ ch.
+  issued:
+    year: 2012
+    month: 12
+    day: 13
+  title: De Souza Ribeiro c. France
+  title-short: De Souza Ribeiro c. France
+  number: n^o^ 22689/07
+- type: legal_case
   id: cjceJohnston
   authority: CJCE
   section: 
@@ -1288,17 +1299,31 @@ references:
   ECLI:
   URL: http://eur-lex.europa.eu/legal-content/FR/TXT/HTML/?uri=CELEX:61996CJ0129&from=FR
 - type: legal_case
-  id: cconst
+  id: cconstVoieHertz
   authority: Conseil constit.
   section: 
   issued:
-    year: 2012
-    month: 03
-    day: 22
-  title: Loi relative à la protection de l'identité
-  title-short: Loi relative à la protection de l'identité
-  number: 2012-652 DC 
-  ECLI: ECLI:FR:CC:2012:2012.652.DC 
-  URL: http://www.conseil-constitutionnel.fr/decision/2012/2012-652-dc/decision-n-2012-652-dc-du-22-mars-2012.105165.html
+    year: 2016
+    month: 10
+    day: 21
+  title: "La Quadrature du Net et autres [Surveillance et contrôle des trasmissions empruntant la voie hertzienne]"
+  title-short: "LQDN [Surveillance voie hertzienne]"
+  number: 2016-590 QPC 
+  ECLI:
+  URL: http://www.conseil-constitutionnel.fr/conseil-constitutionnel/francais/les-decisions/acces-par-date/decisions-depuis-1959/2016/2016-590-qpc/decision-n-2016-590-qpc-du-21-octobre-2016.148047.html
+  comments:
+- type: legal_case
+  id: cetatDecretNonPub
+  authority: Conseil d'Etat
+  section: 8^e^ chambre
+  issued:
+    year: 2016
+    month: 11
+    day: 18
+  title: "La Quadrature du Net et autres [Décret non publié sur les activités de surveillance internationale par les services de renseignements]"
+  title-short: "LQDN [Décret non publié sur les activités de surveillance internationale]"
+  number: n^o^ 393080
+  ECLI: FR:CECHS:2016:393080.2016111
+  URL: https://www.legifrance.gouv.fr/affichJuriAdmin.do?oldAction=rechJuriAdmin&idTexte=CETATEXT000033442775&fastReqId=1655242348&fastPos=1
   comments:
 ...
