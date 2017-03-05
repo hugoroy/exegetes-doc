@@ -537,7 +537,7 @@ references:
   title-short: FDN
   number: 2015-478 QPC 
   ECLI:
-  URL:
+  URL: http://www.conseil-constitutionnel.fr/conseil-constitutionnel/francais/les-decisions/acces-par-date/decisions-depuis-1959/2015/2015-478-qpc/decision-n-2015-478-qpc-du-24-juillet-2015.144165.html
   comments:
 - type: legal_case
   id: cconstHadopi
@@ -725,17 +725,6 @@ references:
     day: 17
   title: "Open Rights Group and others v. Secretary of State for the Home Department"
   title-short: "Open Rights Group"
-- type: legal_case
-  id: cetatLoppsiCaze
-  authority: "Conseil d’État"
-  section: "2^e^ sous-sect."
-  issued:
-    year: 2015
-    month: 02
-    day: 15
-  title: "Association French Data Network et autres"
-  title-short: "FDN et a."
-  number: "n^os^ 389140, 389896"
 - type: legal_case
   id: cjueAklagaren
   authority: "CJUE"
@@ -1026,9 +1015,10 @@ references:
     year: 2016
     month: 02
     day: 15
-  title: ""
-  title-short: ""
-  number: n^os^ 389896 et 389896
+  title: "French Data Network et autres"
+  title-short: "French Data Network et a."
+  number: n^os^ 389896 et 389140
+  URL : https://www.legifrance.gouv.fr/affichJuriAdmin.do?oldAction=rechJuriAdmin&idTexte=CETATEXT000032064635&fastReqId=1953450762&fastPos=1
 - type: legal_case
   id: cetatArtigue
   authority: Conseil d’État
@@ -1257,4 +1247,58 @@ references:
   title: "M. A... D..."
   title-short: "A... D..."
   number: n^o^ 396958
+- type: legal_case
+  id: cetatAccesADC
+  authority: Conseil d’État
+  section: 10^e^ et 9^e^ SSR
+  issued: 
+    year: 2016
+    month: 02
+    day: 12
+  title: "French Data Network et autres [accès administratif aux données de connexion]"
+  title-short: "FDN [accès admin. aux données de connexion]"
+  number: n^o^ 388134
+  ECLI:
+  URL: https://www.legifrance.gouv.fr/affichJuriAdmin.do?oldAction=rechJuriAdmin&idTexte=CETATEXT000032047966&fastReqId=549530502&fastPos=1
+  comments: REP contre le décret n° 2014-1576 du 24 décembre 2014 relatif à l'accès administratif aux données de connexion
+- type: legal_case
+  id: cetatFranceNature
+  authority: Conseil d’État
+  section: 9^e^ et 10^e^ SSR
+  issued: 
+    year: 2001
+    month: 01
+    day: 10
+  title: "France Nature Environnement"
+  title-short: "France Nature Environnement"
+  number: n^o^ 217237
+  ECLI:
+  URL: https://www.legifrance.gouv.fr/affichJuriAdmin.do?idTexte=CETATEXT000008067210
+- type: legal_case
+  id: cjceInterEnv
+  authority: CJCE
+  section:
+  issued: 
+    year: 1997
+    month: 12
+    day: 18
+  title: "Inter-Environnement Wallonie ASBL contre Région wallonne"
+  title-short: "Inter-Environnement Wallonie"
+  number: 129/96
+  ECLI:
+  URL: http://eur-lex.europa.eu/legal-content/FR/TXT/HTML/?uri=CELEX:61996CJ0129&from=FR
+- type: legal_case
+  id: cconst
+  authority: Conseil constit.
+  section: 
+  issued:
+    year: 2012
+    month: 03
+    day: 22
+  title: Loi relative à la protection de l'identité
+  title-short: Loi relative à la protection de l'identité
+  number: 2012-652 DC 
+  ECLI: ECLI:FR:CC:2012:2012.652.DC 
+  URL: http://www.conseil-constitutionnel.fr/decision/2012/2012-652-dc/decision-n-2012-652-dc-du-22-mars-2012.105165.html
+  comments:
 ...
