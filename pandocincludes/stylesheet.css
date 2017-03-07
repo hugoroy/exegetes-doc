@@ -3,6 +3,8 @@ body {
     font-family: "serif", serif;
     max-width: 600px;
     margin: 4em auto;
+    padding-left: 1em;
+    padding-right: 1em;
 }
 
 h1 {
