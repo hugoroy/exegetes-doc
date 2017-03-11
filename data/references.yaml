@@ -1326,4 +1326,108 @@ references:
   ECLI: FR:CECHS:2016:393080.2016111
   URL: https://www.legifrance.gouv.fr/affichJuriAdmin.do?oldAction=rechJuriAdmin&idTexte=CETATEXT000033442775&fastReqId=1655242348&fastPos=1
   comments:
+- type: legal_case
+  id: cjueWoonpunt
+  authority: CJUE
+  section:
+  issued:
+    year: 2014
+    month: 02
+    day: 27
+  title: "Stichting Woonpunt et autres contre Commission"
+  title short: "Stichting Woonpunt e.a. / Commission"
+  number: C-132/12
+  ECLI: EU:C:2014:100
+  URL: http://curia.europa.eu/juris/document/document.jsf?text=&docid=148386&pageIndex=0&doclang=FR&mode=lst&dir=&occ=first&part=1&cid=632752
+- type: legal_case
+  id: cjceIrlParld2006
+  authority: CJCE
+  section:
+  issued:
+    year: 2009
+    month: 02
+    day: 10
+  title: "Irlande contre Parlement Européen et Conseil de l'Union Européenne"
+  title short: "Irlande contre Parlement Européen"
+  number: C-301/06 P
+  ECLI: EU:C:2009:68
+  URL: http://curia.europa.eu/juris/document/document.jsf?text=&docid=72843&pageIndex=0&doclang=FR&mode=lst&dir=&occ=first&part=1&cid=632950
+- type: legal_case
+  id: cjceDreyfus
+  authority: CJCE
+  section:
+  issued:
+    year: 1998
+    month: 05
+    day: 5
+  title: "Société Louis Dreyfus contre Commission des Communautés européennes"
+  title short: "Dreyfus v. Commission"
+  number: C-386/96
+  ECLI: EU:C:1998:193
+  URL: http://curia.europa.eu/juris/document/document.jsf?text=&docid=43819&pageIndex=0&doclang=FR&mode=lst&dir=&occ=first&part=1&cid=633399
+- type: legal_case
+  id: cjcePiraiki
+  authority: CJCE
+  section:
+  issued:
+    year: 1985
+    month: 01
+    day: 17
+  title: "SA Piraiki-Patraiki et autres contre Commission des Communautés européennes"
+  title short: "Piraiki-Patraiki e. a. contre Commission"
+  number: C-11/82
+  ECLI: EU:C:1985:18
+  URL: http://eur-lex.europa.eu/legal-content/FR/TXT/HTML/?uri=CELEX:61982CJ0011&from=FR
+- type: legal_case
+  id: tpiueMicroban
+  authority: TPIUE
+  section:
+  issued:
+    year: 2011
+    month: 10
+    day: 25
+  title: "Microban International et Microban (Europe) contre Commission"
+  title short: "Microban International v. Commission"
+  number: T-262/10
+  ECLI: EU:T:2011:623
+  URL: http://curia.europa.eu/juris/document/document.jsf?text=&docid=111762&pageIndex=0&doclang=fr&mode=lst&dir=&occ=first&part=1&cid=634464
+- type: legal_case
+  id: tpiueFedercoop
+  authority: TPIUE
+  section:
+  issued:
+    year: 2015
+    month: 07
+    day: 07
+  title: "Federazione nazionale delle cooperative della pesca (Federcoopesca) e.a. contre Commission européenne"
+  title short: "Federcoopesca c. Commission"
+  number: T-312/14
+  ECLI: EU:T:2015:472
+  URL: http://eur-lex.europa.eu/legal-content/FR/TXT/HTML/?uri=CELEX:62014TJ0312&from=FR
+- type: legal_case
+  id: tpiueForum187
+  authority: TPIUE
+  section:
+  issued:
+    year: 2010
+    month: 03
+    day: 18
+  title: "Forum 187 ASBL contre Commission européenne"
+  title short: "Forum 187 ASBL c. Commission européenne""
+  number: T-189/08
+  ECLI: EU:T:2010:99
+  URL: http://curia.europa.eu/juris/document/document.jsf?text=&docid=82994&pageIndex=0&doclang=fr&mode=lst&dir=&occ=first&part=1&cid=635506 
+- type: legal_case
+  id: tpiueAsoEspBanca
+  authority: TPIUE
+  section:
+  issued:
+    year: 2012
+    month: 03
+    day: 29
+  title: "Asociación Española de Banca contre Commission européenne"
+  title short: "Asociación Española de Banca c. Commission européenne"
+  number: T-236/10
+  ECLI: EU:T:2012:176
+  URL: http://curia.europa.eu/juris/liste.jsf?language=fr&num=T-236/10
 ...
