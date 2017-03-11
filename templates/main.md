@@ -84,8 +84,8 @@ header-includes:
   - \newcounter{paranumero}
   - \newif\ifcounting\countingtrue
   - \newcommand{\para}[1]{\noindent\ifcounting\refstepcounter{paranumero}\fi{\small\strut\llap{\textsf{\scriptsize \theparanumero}\quad\quad}}\label{#1}}
-  - \newcommand{\parnum}[1]{\textsf{¶\nobreak\thinspace\ref{#1}}}
-  - \newcommand{\vparnum}[1]{\textsf{¶\nobreak\thinspace\ref{#1}} page\nobreak\hspace{0.035in}\pageref{#1}}
+  - \newcommand{\parnum}[1]{{\small ¶\nobreak\thinspace\ref{#1}}}
+  - \newcommand{\vparnum}[1]{{\small ¶\nobreak\thinspace\vref{#1}}}
   - \let\oldquote\quote
   - \let\endoldquote\endquote
   - \renewenvironment{quote}{\begin{oldquote}\renewcommand{\para}[1]{}}{\end{oldquote}}
