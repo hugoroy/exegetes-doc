@@ -1335,7 +1335,7 @@ references:
     month: 02
     day: 27
   title: "Stichting Woonpunt et autres contre Commission"
-  title short: "Stichting Woonpunt e.a. / Commission"
+  title-short: "Stichting Woonpunt e.a. / Commission"
   number: C-132/12
   ECLI: EU:C:2014:100
   URL: http://curia.europa.eu/juris/document/document.jsf?text=&docid=148386&pageIndex=0&doclang=FR&mode=lst&dir=&occ=first&part=1&cid=632752
@@ -1348,7 +1348,7 @@ references:
     month: 02
     day: 10
   title: "Irlande contre Parlement Européen et Conseil de l'Union Européenne"
-  title short: "Irlande contre Parlement Européen"
+  title-short: "Irlande contre Parlement Européen"
   number: C-301/06 P
   ECLI: EU:C:2009:68
   URL: http://curia.europa.eu/juris/document/document.jsf?text=&docid=72843&pageIndex=0&doclang=FR&mode=lst&dir=&occ=first&part=1&cid=632950
@@ -1361,7 +1361,7 @@ references:
     month: 05
     day: 5
   title: "Société Louis Dreyfus contre Commission des Communautés européennes"
-  title short: "Dreyfus v. Commission"
+  title-short: "Dreyfus v. Commission"
   number: C-386/96
   ECLI: EU:C:1998:193
   URL: http://curia.europa.eu/juris/document/document.jsf?text=&docid=43819&pageIndex=0&doclang=FR&mode=lst&dir=&occ=first&part=1&cid=633399
@@ -1374,7 +1374,7 @@ references:
     month: 01
     day: 17
   title: "SA Piraiki-Patraiki et autres contre Commission des Communautés européennes"
-  title short: "Piraiki-Patraiki e. a. contre Commission"
+  title-short: "Piraiki-Patraiki e. a. contre Commission"
   number: C-11/82
   ECLI: EU:C:1985:18
   URL: http://eur-lex.europa.eu/legal-content/FR/TXT/HTML/?uri=CELEX:61982CJ0011&from=FR
@@ -1387,7 +1387,7 @@ references:
     month: 10
     day: 25
   title: "Microban International et Microban (Europe) contre Commission"
-  title short: "Microban International v. Commission"
+  title-short: "Microban International v. Commission"
   number: T-262/10
   ECLI: EU:T:2011:623
   URL: http://curia.europa.eu/juris/document/document.jsf?text=&docid=111762&pageIndex=0&doclang=fr&mode=lst&dir=&occ=first&part=1&cid=634464
@@ -1400,7 +1400,7 @@ references:
     month: 07
     day: 07
   title: "Federazione nazionale delle cooperative della pesca (Federcoopesca) e.a. contre Commission européenne"
-  title short: "Federcoopesca c. Commission"
+  title-short: "Federcoopesca c. Commission"
   number: T-312/14
   ECLI: EU:T:2015:472
   URL: http://eur-lex.europa.eu/legal-content/FR/TXT/HTML/?uri=CELEX:62014TJ0312&from=FR
@@ -1413,7 +1413,7 @@ references:
     month: 03
     day: 18
   title: "Forum 187 ASBL contre Commission européenne"
-  title short: "Forum 187 ASBL c. Commission européenne""
+  title-short: "Forum 187 ASBL c. Commission européenne""
   number: T-189/08
   ECLI: EU:T:2010:99
   URL: http://curia.europa.eu/juris/document/document.jsf?text=&docid=82994&pageIndex=0&doclang=fr&mode=lst&dir=&occ=first&part=1&cid=635506 
@@ -1426,7 +1426,7 @@ references:
     month: 03
     day: 29
   title: "Asociación Española de Banca contre Commission européenne"
-  title short: "Asociación Española de Banca c. Commission européenne"
+  title-short: "Asociación Española de Banca c. Commission européenne"
   number: T-236/10
   ECLI: EU:T:2012:176
   URL: http://curia.europa.eu/juris/liste.jsf?language=fr&num=T-236/10
