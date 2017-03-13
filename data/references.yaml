@@ -1430,4 +1430,15 @@ references:
   number: T-236/10
   ECLI: EU:T:2012:176
   URL: http://curia.europa.eu/juris/liste.jsf?language=fr&num=T-236/10
+- type: legal_case
+  id: cjceKolpinghuis
+  authority: CJCE
+  section: 6^e^
+  issued:
+    year: 1987
+    month: 10
+    day: 08
+  title: "Procédure pénale contre Kolpinghuis Nijmegen BV."
+  title-short: "Kolpinghuis Nijmegen"
+  number: 80/86
 ...
