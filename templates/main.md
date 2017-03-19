@@ -95,10 +95,11 @@ header-includes:
   - \def\Llap{\ifhmode\ERROR\fi\strut\llap}
   - \setcounter{tocdepth}{2}
   - \setcounter{secnumdepth}{4}
-#  - \usepackage{tocloft}
-#  - \setlength\cftchapnumwidth{2em}
-#  - \setlength\cftsecindent{2.2em}
-#  - \setlength\cftsecnumwidth{1.6em}
+  - \usepackage[titles]{tocloft}
+  - \setlength\cftchapnumwidth{2em}
+  - \setlength\cftsecindent{2.2em}
+  - \setlength\cftsecnumwidth{1.6em}
+  - \setlength\cftbeforechapskip{0.2em}
   - \counterwithout{footnote}{chapter}
   - \input{../../exegetesDoc/pandocincludes/titleclass}
   - \parskip=6pt
