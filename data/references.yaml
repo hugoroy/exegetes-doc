@@ -1441,4 +1441,15 @@ references:
   title: "Procédure pénale contre Kolpinghuis Nijmegen BV."
   title-short: "Kolpinghuis Nijmegen"
   number: 80/86
+- type: legal_case
+  id: cetatBailapart
+  authority: Conseil d’État
+  section: 5^e^, 4^e^ ch. r.
+  issued:
+    year: 2017
+    month: 03
+    day: 15
+  title: Association «Bail à part, tremplin pour le logement»
+  title-short: Association «Bail à part»
+  number: n^o^ 391654
 ...
