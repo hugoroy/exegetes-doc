@@ -1452,4 +1452,16 @@ references:
   title: Association «Bail à part, tremplin pour le logement»
   title-short: Association «Bail à part»
   number: n^o^ 391654
+- type: legal_case
+  id: cjuebreyer
+  authority: CJUE
+  section: 2^e^
+  issued:
+    year: 2016
+    month: 10
+    day: 19
+  title: "Patrick Breyer contre Bundesrepublik Deutschland"
+  title-short: "Breyer"
+  number: C-582/14
+  
 ...
