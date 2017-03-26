@@ -1475,6 +1475,8 @@ references:
   title-short: "Avis sur le traitement EDVIGE"
   number: n^o^ 2008-174
   URL : https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000019104139
+  container-title: "JORF n^o^ 0152 du 1^er^ juillet 2008"
+  container-title-short: "JORF"
 - type: legislation
   id: cnilVisage
   authority: CNIL
@@ -1486,6 +1488,8 @@ references:
   title-short: "Avis relatif aux passeports électroniques"
   number: n^o^ 2007-368
   URL: https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000018777441
+  container-title: "JORF n^o^ 0109 du 10 mai 2008"
+  container-title-short: "JORF"
 - type: legislation
   id: cnilReconFac
   authority: CNIL
@@ -1497,6 +1501,8 @@ references:
   title-short: "Avis sur le traitement PARAFE"
   number: n^o^ 2016-012
   URL: https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000032372514
+  container-title: "JORF n^o^ 0083 du 8 avril 2016"
+  container-title-short: "JORF"
 - type: legal_case
   id: cedhMK
   authority: Cour EDH
