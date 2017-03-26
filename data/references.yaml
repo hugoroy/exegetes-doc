@@ -1463,7 +1463,7 @@ references:
   title: "Patrick Breyer contre Bundesrepublik Deutschland"
   title-short: "Breyer"
   number: C-582/14
-- type: legal_case
+- type: legislation
   id: cnilEdvige
   authority: CNIL
   section:
@@ -1475,7 +1475,7 @@ references:
   title-short: "Avis sur le traitement EDVIGE"
   number: n^o^ 2008-174
   URL : https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000019104139
-- type: legal_case
+- type: legislation
   id: cnilVisage
   authority: CNIL
   issued:
@@ -1486,7 +1486,7 @@ references:
   title-short: "Avis relatif aux passeports électroniques"
   number: n^o^ 2007-368
   URL: https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000018777441
-- type: legal_case
+- type: legislation
   id: cnilReconFac
   authority: CNIL
   issued:
