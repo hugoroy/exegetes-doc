@@ -1463,5 +1463,50 @@ references:
   title: "Patrick Breyer contre Bundesrepublik Deutschland"
   title-short: "Breyer"
   number: C-582/14
-  
+- type: legal_case
+  id: cnilEdvige
+  authority: CNIL
+  section:
+  issued:
+    year: 2008
+    month: 06
+    day: 16
+  title: "Avis sur un projet de décret en Conseil d'Etat portant création au profit de la direction centrale de la sécurité publique d'un traitement automatisé de données à caractère personnel dénommé EDVIGE"
+  title-short: "EDVIGE"
+  number: n^o^ 2008-174
+  URL : https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000019104139
+- type: legal_case
+  id: cnilVisage
+  authority: CNIL
+  issued:
+    year: 2007
+    month: 12
+    day: 11
+  title: "Avis sur un projet de décret en Conseil d'Etat modifiant le décret n° 2005-1726 du 30 décembre 2005 relatif aux passeports électroniques"
+  title-short: "Avis relatif aux passeports électroniques"
+  number: n^o^ 2007-368
+  URL: https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000018777441
+- type: legal_case
+  id: cnilReconFac
+  authority: CNIL
+  issued:
+    year: 2016
+    month: 01
+    day: 28
+  title: "Avis sur un projet de décret portant modification d'un traitement automatisé de données à caractère personnel dénommé PARAFE"
+  title-short: "Avis relatif au traitement automatisé de données à caractère personnel dénommé PARAFE"
+  number: n^o^ 2016-012
+  URL: https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000032372514
+- type: legal_case
+  id: cedhMK
+  authority: Cour EDH
+  section:
+  issued:
+    year: 2013
+    month: 04
+    day: 18
+  title: "M. K contre France"
+  title-short: "M. K c. France"
+  number: n^o^ 19522/09
+  URL:
 ...
