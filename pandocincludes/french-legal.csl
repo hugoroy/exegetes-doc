@@ -216,7 +216,7 @@
           <!--   <else> -->
             <choose>
               <if variable="title-short" match="all">
-                <text variable="title"/>
+                <text variable="title-short"/>
               </if>
               <else-if>
                 <text variable="title" />
@@ -496,7 +496,7 @@
         </if>
         <else-if type="legislation">
           <choose>
-            <if variable="title-short" match="all">
+            <if variable="title" match="all">
               <text variable="title" />
             </if>
             <else-if>
