@@ -92,7 +92,7 @@ header-includes:
   - \newenvironment{loi}{\begin{quote}\sffamily}{\end{quote}}
   - \newenvironment{parl}{\begin{quote}\itshape}{\end{quote}}
   - \newenvironment{jpref}{\sffamily\parskip 9pt \parindent 0pt \noindent }{}
-  - \def\Llap{\ifhmode\ERROR\fi\strut\llap}
+  - \def\Llap{\ifhmode\ERROR\fi\leavevmode\llap}
   - \setcounter{tocdepth}{2}
   - \setcounter{secnumdepth}{4}
   - \usepackage[titles]{tocloft}
