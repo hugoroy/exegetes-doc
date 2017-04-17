@@ -1515,4 +1515,17 @@ references:
   title-short: "M. K c. France"
   number: n^o^ 19522/09
   URL:
+- type: legal_case
+  id: cjueScarletExt
+  authority: CJUE
+  section:
+  issued:
+    year: 2011
+    month: 11
+    day: 24
+  title: "Scarlet Extended c. SABAM"
+  title-short: "Scarlet Extended"
+  number: C-70/10
+  URL: http://curia.europa.eu/juris/liste.jsf?language=fr&num=C-70/10
+  ECLI: "ECLI:EU:C:2011:771"
 ...
