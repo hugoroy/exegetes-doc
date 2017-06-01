@@ -15,7 +15,7 @@ references:
   id: cedhAkdeniz
   authority: Cour EDH
   section: 2^e^ sect.
-  issued: 
+  issued:
     year: 2014
     month: 03
     day: 11
@@ -29,7 +29,7 @@ references:
   id: cedhEkinRecevab
   authority: Cour EDH
   section: 3^e^ sect.
-  issued: 
+  issued:
     year: 2000
     month: 01
     day: 18
@@ -43,7 +43,7 @@ references:
   id: cedhHentrich
   authority: Cour EDH
   section: ch.
-  issued: 
+  issued:
     year: 1994
     month: 09
     day: 22
@@ -57,7 +57,7 @@ references:
   id: cedhAmann
   authority: Cour EDH
   section: g^de^ ch.
-  issued: 
+  issued:
     year: 2000
     month: 02
     day: 16
@@ -71,7 +71,7 @@ references:
   id: cedhYildirim
   authority: Cour EDH
   section: 2^e^ sect.
-  issued: 
+  issued:
     year: 2012
     month: 12
     day: 18
@@ -85,7 +85,7 @@ references:
   id: cedhSilver
   authority: Cour EDH
   section: ch.
-  issued: 
+  issued:
     year: 1983
     month: 03
     day: 25
@@ -99,7 +99,7 @@ references:
   id: cedhKlass
   authority: Cour EDH
   section: Plén.
-  issued: 
+  issued:
     year: 1978
     month: 09
     day: 06
@@ -134,7 +134,7 @@ references:
   title: Liberty et autres c. Royaume-Uni
   title-short: Liberty c. R-U
   number: n^o^ 58243/00
-  ECLI: 
+  ECLI:
   URL: http://hudoc.echr.coe.int/eng?i=001-87208
   comments:
 - type: legal_case
@@ -210,7 +210,7 @@ references:
 - type: legal_case
   id: cjueIPI
   authority: CJUE
-  section: 
+  section:
   issued:
     year: 2013
     month: 11
@@ -224,7 +224,7 @@ references:
 - type: legal_case
   id: cedhLeander
   authority: Cour EDH
-  section: 
+  section:
   issued:
     year: 1987
     month: 03
@@ -238,7 +238,7 @@ references:
 - type: legal_case
   id: cedhRotaru
   authority: Cour EDH
-  section: 
+  section:
   issued:
     year: 2000
     month: 05
@@ -252,7 +252,7 @@ references:
 - type: legal_case
   id: cedhSzabo
   authority: Cour EDH
-  section: 
+  section:
   issued:
     year: 2016
     month: 01
@@ -294,7 +294,7 @@ references:
 - type: legal_case
   id: cjueIrlandeVsEuroparl
   authority: CJUE
-  section: 
+  section:
   issued:
     year: 2009
     month: 02
@@ -321,7 +321,7 @@ references:
 - type: legal_case
   id: cedhNiemietz
   authority: Cour EDH
-  section: 
+  section:
   issued:
     year: 1992
     month: 12
@@ -347,7 +347,7 @@ references:
 - type: legal_case
   id: cedhDragojevic
   authority: Cour EDH
-  section:  1^re^ sect.
+  section:1^re^ sect.
   issued:
     year: 2015
     month: 01
@@ -360,7 +360,7 @@ references:
 - type: legal_case
   id: cedhPeck
   authority: Cour EDH
-  section: 
+  section:
   issued:
     year: 2003
     month: 01
@@ -374,7 +374,7 @@ references:
 - type: legal_case
   id: cedhEkimdzhiev
   authority: Cour EDH
-  section: 
+  section:
   issued:
     year: 2007
     month: 06
@@ -402,7 +402,7 @@ references:
 - type: legal_case
   id: cedhHalford
   authority: Cour EDH
-  section: 
+  section:
   issued:
     year: 1997
     month: 06
@@ -444,7 +444,7 @@ references:
 - type: legal_case
   id: cedhMalone
   authority: Cour EDH
-  section: 
+  section:
   issued:
     year: 1984
     month: 08
@@ -458,7 +458,7 @@ references:
 - type: legal_case
   id: cconstIdentite
   authority: Conseil constit.
-  section: 
+  section:
   issued:
     year: 2012
     month: 03
@@ -472,7 +472,7 @@ references:
 - type: legal_case
   id: cconstRenseignmt
   authority: Conseil constit.
-  section: 
+  section:
   issued:
     year: 2015
     month: 07
@@ -486,7 +486,7 @@ references:
 - type: legal_case
   id: cjueSabam
   authority: CJUE
-  section: 
+  section:
   issued:
     year: 2012
     month: 02
@@ -500,7 +500,7 @@ references:
 - type: legal_case
   id: cconstSurvintl
   authority: Conseil constit.
-  section: 
+  section:
   issued:
     year: 2015
     month: 11
@@ -514,7 +514,7 @@ references:
 - type: legal_case
   id: cconstAccesadmin2006
   authority: Conseil constit.
-  section: 
+  section:
   issued:
     year: 2006
     month: 01
@@ -528,7 +528,7 @@ references:
 - type: legal_case
   id: cconstLPM
   authority: Conseil constit.
-  section: 
+  section:
   issued:
     year: 2015
     month: 07
@@ -542,7 +542,7 @@ references:
 - type: legal_case
   id: cconstHadopi
   authority: Conseil constit.
-  section: 
+  section:
   issued:
     year: 2009
     month: 06
@@ -556,7 +556,7 @@ references:
 - type: legal_case
   id: cjceVerts
   authority: CJCE
-  section: 
+  section:
   issued:
     year: 1986
     month: 04
@@ -570,9 +570,9 @@ references:
 - type: legal_case
   id: cjceHeylens
   authority: CJCE
-  section: 
+  section:
   issued:
-    year: 
+    year:
     month:
     day:
   title: Heylens et autres
@@ -584,7 +584,7 @@ references:
 - type: legal_case
   id: cjceJohnston
   authority: CJCE
-  section: 
+  section:
   issued:
     year: 1986
     month: 05
@@ -598,7 +598,7 @@ references:
 - type: legal_case
   id: cjueUgt
   authority: CJUE
-  section: 
+  section:
   issued:
     year:
     month:
@@ -626,7 +626,7 @@ references:
 - type: legal_case
   id: cedhVetter
   authority: Cour EDH
-  section: 
+  section:
   issued:
     year: 2005
     month: 05
@@ -639,7 +639,7 @@ references:
 - type: legal_case
   id: cedhKruslin
   authority: Cour EDH
-  section: 
+  section:
   issued:
     year: 1990
     month: 04
@@ -652,7 +652,7 @@ references:
 - type: legal_case
   id: cjueTelekabel
   authority: CJUE
-  section: 
+  section:
   issued:
     year: 2014
     month: 03
@@ -665,7 +665,7 @@ references:
 - type: legal_case
   id: cedhEkin
   authority: Cour EDH
-  section: 
+  section:
   issued:
     year: 2001
     month: 07
@@ -679,7 +679,7 @@ references:
 - type: legal_case
   id: cedhDeweer
   authority: Cour EDH
-  section: 
+  section:
   issued:
     year: 1980
     month: 02
@@ -689,7 +689,7 @@ references:
 - type: legal_case
   id: cedhAdolf
   authority: Cour EDH
-  section: 
+  section:
   issued:
     year: 1982
     month: 03
@@ -698,7 +698,7 @@ references:
 - type: legal_case
   id: cconstAudiovis
   authority: Conseil constit.
-  section: 
+  section:
   issued:
     year: 2009
     month: 03
@@ -718,7 +718,7 @@ references:
 - type: legal_case
   id: ukhighOpen
   authority: High Court du Royaume-Uni
-  section: 
+  section:
   issued:
     year: 2015
     month: 07
@@ -776,7 +776,7 @@ references:
   id: cedhPopescu
   authority: Cour EDH
   section: no 2
-  issued: 
+  issued:
     year: 2007
     month: 04
     day: 26
@@ -790,7 +790,7 @@ references:
   id: cetatLamotte
   authority: Conseil d’État
   section: Ass.
-  issued: 
+  issued:
     year: 1950
     month: 02
     day: 17
@@ -801,7 +801,7 @@ references:
   id: cetatFalco
   authority: Conseil d’État
   section: Ass.
-  issued: 
+  issued:
     year: 1953
     month: 04
     day: 17
@@ -812,7 +812,7 @@ references:
   id: cetatDeltel
   authority: Conseil d’État
   section: Sect.
-  issued: 
+  issued:
     year: 1955
     month: 12
     day: 16
@@ -823,7 +823,7 @@ references:
   id: cetatSimonet
   authority: Conseil d’État
   section: Sect.
-  issued: 
+  issued:
     year: 1957
     month: 05
     day: 17
@@ -834,7 +834,7 @@ references:
   id: cetatSimonet
   authority: Conseil d’État
   section: Sect.
-  issued: 
+  issued:
     year: 1957
     month: 05
     day: 17
@@ -845,7 +845,7 @@ references:
   id: cetatSimonet
   authority: Conseil d’État
   section: Sect.
-  issued: 
+  issued:
     year: 1957
     month: 05
     day: 17
@@ -855,7 +855,7 @@ references:
 - type: legal_case
   id: cconst2011150
   authority: Conseil constit.
-  section: 
+  section:
   issued:
     year: 2011
     month: 07
@@ -869,7 +869,7 @@ references:
 - type: legal_case
   id: cconst99416
   authority: Conseil constit.
-  section: 
+  section:
   issued:
     year: 1999
     month: 07
@@ -883,7 +883,7 @@ references:
 - type: legal_case
   id: cconst93335
   authority: Conseil constit.
-  section: 
+  section:
   issued:
     year: 1994
     month: 01
@@ -897,7 +897,7 @@ references:
 - type: legal_case
   id: cconst86217
   authority: Conseil constit.
-  section: 
+  section:
   issued:
     year: 1986
     month: 09
@@ -944,7 +944,7 @@ references:
 - type: legal_case
   id: cjceJohnston
   authority: CJCE
-  section: 
+  section:
   issued:
     year: 1986
     month: 05
@@ -955,7 +955,7 @@ references:
 - type: legal_case
   id: cjueRundfunk
   authority: CJUE
-  section: 
+  section:
   issued:
     year: 2003
     month: 05
@@ -1033,7 +1033,7 @@ references:
 - type: legal_case
   id: cetatArtigue
   authority: Conseil d’État
-  issued: 
+  issued:
     year: 1915
     month: 11
     day: 12
@@ -1044,7 +1044,7 @@ references:
   id: cetatCadel
   authority: Conseil d’État
   section: Sect.
-  issued: 
+  issued:
     year: 1931
     month: 01
     day: 09
@@ -1055,7 +1055,7 @@ references:
   id: cetatMathian
   authority: Conseil d’État
   section: Ass.
-  issued: 
+  issued:
     year: 1946
     month: 11
     day: 22
@@ -1066,7 +1066,7 @@ references:
   id: cetatFroment
   authority: Conseil d’État
   section: Sect.
-  issued: 
+  issued:
     year: 1966
     month: 11
     day: 18
@@ -1076,7 +1076,7 @@ references:
 - type: legal_case
   id: cetatGarnotel
   authority: Conseil d’État
-  issued: 
+  issued:
     year: 1978
     month: 02
     day: 10
@@ -1086,7 +1086,7 @@ references:
 - type: legal_case
   id: cetatSandre
   authority: Conseil d’État
-  issued: 
+  issued:
     year: 1980
     month: 07
     day: 25
@@ -1096,7 +1096,7 @@ references:
 - type: legal_case
   id: cetatDivier
   authority: Conseil d’État
-  issued: 
+  issued:
     year: 1986
     month: 07
     day: 25
@@ -1107,7 +1107,7 @@ references:
   id: cetatScientologie
   authority: Conseil d’État
   section: Sect.
-  issued: 
+  issued:
     year: 1988
     month: 10
     day: 27
@@ -1117,7 +1117,7 @@ references:
 - type: legal_case
   id: cetatCreditmut
   authority: Conseil d’État
-  issued: 
+  issued:
     year: 2006
     month: 01
     day: 16
@@ -1127,7 +1127,7 @@ references:
 - type: legal_case
   id: cetatJehovah
   authority: Conseil d’État
-  issued: 
+  issued:
     year: 2008
     month: 08
     day: 07
@@ -1137,7 +1137,7 @@ references:
 - type: legal_case
   id: cetatMedecins
   authority: Conseil d’État
-  issued: 
+  issued:
     year: 1992
     month: 07
     day: 10
@@ -1147,7 +1147,7 @@ references:
 - type: legal_case
   id: cetatSeita
   authority: Conseil d’État
-  issued: 
+  issued:
     year: 1993
     month: 02
     day: 25
@@ -1157,7 +1157,7 @@ references:
 - type: legal_case
   id: cetatPromouvoir
   authority: Conseil d’État
-  issued: 
+  issued:
     year: 2000
     month: 10
     day: 06
@@ -1167,7 +1167,7 @@ references:
 - type: legal_case
   id: cetatRaiff
   authority: Conseil d’État
-  issued: 
+  issued:
     year: 1994
     month: 10
     day: 28
@@ -1178,7 +1178,7 @@ references:
   id: cetat23mai2014
   authority: Conseil d’État
   section: ord.
-  issued: 
+  issued:
     year: 2014
     month: 05
     day: 23
@@ -1189,7 +1189,7 @@ references:
   id: cetatLaudon
   authority: Conseil d’État
   section: Ass.
-  issued: 
+  issued:
     year: 1969
     month: 06
     day: 06
@@ -1200,7 +1200,7 @@ references:
   id: cetatNavigationaerienne
   authority: Conseil d’État
   section: Ass.
-  issued: 
+  issued:
     year: 1982
     month: 12
     day: 22
@@ -1210,7 +1210,7 @@ references:
 - type: legal_case
   id: cetatCusenier
   authority: Conseil d’État
-  issued: 
+  issued:
     year: 1986
     month: 03
     day: 12
@@ -1220,7 +1220,7 @@ references:
 - type: legal_case
   id: cetatPoliciers
   authority: Conseil d’État
-  issued: 
+  issued:
     year: 1993
     month: 02
     day: 03
@@ -1230,7 +1230,7 @@ references:
 - type: legal_case
   id: cetatMonuments
   authority: Conseil d’État
-  issued: 
+  issued:
     year: 1986
     month: 02
     day: 21
@@ -1240,7 +1240,7 @@ references:
 - type: legal_case
   id: cetatENA
   authority: Conseil d’État
-  issued: 
+  issued:
     year: 1993
     month: 06
     day: 04
@@ -1251,7 +1251,7 @@ references:
   id: cetatMAD
   authority: Conseil d’État
   section: form. spé.
-  issued: 
+  issued:
     year: 2016
     month: 10
     day: 19
@@ -1262,7 +1262,7 @@ references:
   id: cetatAccesADC
   authority: Conseil d’État
   section: 10^e^ et 9^e^ SSR
-  issued: 
+  issued:
     year: 2016
     month: 02
     day: 12
@@ -1276,7 +1276,7 @@ references:
   id: cetatFranceNature
   authority: Conseil d’État
   section: 9^e^ et 10^e^ SSR
-  issued: 
+  issued:
     year: 2001
     month: 01
     day: 10
@@ -1289,7 +1289,7 @@ references:
   id: cjceInterEnv
   authority: CJCE
   section:
-  issued: 
+  issued:
     year: 1997
     month: 12
     day: 18
@@ -1301,7 +1301,7 @@ references:
 - type: legal_case
   id: cconstVoieHertz
   authority: Conseil constit.
-  section: 
+  section:
   issued:
     year: 2016
     month: 10
@@ -1531,7 +1531,7 @@ references:
 - type: legal_case
   id: cconstFinance2002
   authority: Conseil constit.
-  section: 
+  section:
   issued:
     year: 2001
     month: 12
@@ -1545,7 +1545,7 @@ references:
 - type: legal_case
   id: ceHakJaHan
   authority: Conseil d’État
-  section: 
+  section:
   issued:
     year: 2002
     month: 11
@@ -1553,13 +1553,13 @@ references:
   title: Mme Hak Ja Han
   title-short: Hak Ja Han
   number: n^o^ 194296
-  ECLI:  
+  ECLI:
   URL: https://www.legifrance.gouv.fr/affichJuriAdmin.do?oldAction=rechJuriAdmin&idTexte=CETATEXT000008150584&fastReqId=1679336141&fastPos=2
   comments: divisibilité dans la communication des fichiers intéressant la sûreté de l'État et principe du contradictoire devant le conseil d'État
 - type: legal_case
   id: cconstLoiMacron
   authority: Conseil constit.
-  section: 
+  section:
   issued:
     year: 2015
     month: 08
@@ -1573,7 +1573,7 @@ references:
 - type: legal_case
   id: cconstCovedSA
   authority: Conseil constit.
-  section: 
+  section:
   issued:
     year: 2012
     month: 01
@@ -1595,7 +1595,7 @@ references:
   title: Gillan et Quinton c. Royaume-Uni
   title-short: Gillan c. R.-U.
   number: n^o^ 4158/05
-  ECLI:  
+  ECLI:
   URL: http://hudoc.echr.coe.int/eng?i=001-96677
 - type: legal_case
   id: cedhSegersted
@@ -1642,7 +1642,7 @@ references:
 - type: legal_case
   id: cconstLiberteAssociation
   authority: Conseil constit.
-  section: 
+  section:
   issued:
     year: 1971
     month: 07
@@ -1652,11 +1652,11 @@ references:
   number: 71-44 DC 
   ECLI: FR:CC:1971:71.44.DC
   URL: http://www.conseil-constitutionnel.fr/conseil-constitutionnel/francais/les-decisions/acces-par-date/decisions-depuis-1959/1971/71-44-dc/decision-n-71-44-dc-du-16-juillet-1971.7217.html
-  comments: 
+  comments:
 - type: legal_case
   id: cedhweber
   authority: CEDH
-  section: 
+  section:
   issued:
     year: 2006
     month: 06
