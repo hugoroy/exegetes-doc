@@ -1528,4 +1528,17 @@ references:
   number: C-70/10
   URL: http://curia.europa.eu/juris/liste.jsf?language=fr&num=C-70/10
   ECLI: "ECLI:EU:C:2011:771"
+- type: legal_case
+   id: cedhSegerstedt
+   authority: Cour EDH
+   section: 2^e^ sect.
+   issued:
+     year: 2006
+     month: 09
+     day: 06
+  title: "Segerstedt Wiberg et autres c. Suède"
+  title-short: "Segerstedt Wiberg"
+  number: n^o^ 62332/00
+  ECLI:
+  URL: http://hudoc.echr.coe.int/eng?i=001-75592
 ...
