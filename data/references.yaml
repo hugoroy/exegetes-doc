@@ -2,7 +2,7 @@
 references:
 - type: legal_case
   id: cedhObserver
-  authority: Cour EDH
+  authority: Cour EDH
   section:
   issued:
     year: 1991
@@ -10,151 +10,151 @@ references:
     day: 26
   title: Observer & Guardian contre Royaume-Uni
   title-short: Observer c. R.-U.
-  number: n^o^ 13585/88
+  number: n^o^ 13585/88
 - type: legal_case
   id: cedhAkdeniz
-  authority: Cour EDH
+  authority: Cour EDH
   section: 2^e^ sect.
-  issued:
+  issued: 
     year: 2014
     month: 03
     day: 11
   title: Akdniz c. Turquie
   title-short: Akdeniz c. Turq.
-  number: n^o^ 20877/10
+  number: n^o^ 20877/10
   ECLI:
   URL: http://hudoc.echr.coe.int/eng?i=001-142383
   comments:
 - type: legal_case
   id: cedhEkinRecevab
-  authority: Cour EDH
+  authority: Cour EDH
   section: 3^e^ sect.
-  issued:
+  issued: 
     year: 2000
     month: 01
     day: 18
   title: Ekin c. France, décision sur la recevabilité
   title-short: Ekin c. Fr., recevabilité
-  number: n^o^ 39288/98
+  number: n^o^ 39288/98
   ECLI:
   URL: http://hudoc.echr.coe.int/eng?i=001-30962
   comments:
 - type: legal_case
   id: cedhHentrich
-  authority: Cour EDH
+  authority: Cour EDH
   section: ch.
-  issued:
+  issued: 
     year: 1994
     month: 09
     day: 22
   title: Hentrich c. France
   title-short: Hentrich c. France
-  number: n^o^ 13616/88
+  number: n^o^ 13616/88
   ECLI:
   URL: http://hudoc.echr.coe.int/eng?i=001-62458
   comments:
 - type: legal_case
   id: cedhAmann
-  authority: Cour EDH
+  authority: Cour EDH
   section: g^de^ ch.
-  issued:
+  issued: 
     year: 2000
     month: 02
     day: 16
   title: Amann c. Suisse
   title-short: Amann c. Suisse
-  number: n^o^ 27798/95
+  number: n^o^ 27798/95
   ECLI:
   URL: http://hudoc.echr.coe.int/eng?i=001-62971
   comments:
 - type: legal_case
   id: cedhYildirim
-  authority: Cour EDH
+  authority: Cour EDH
   section: 2^e^ sect.
-  issued:
+  issued: 
     year: 2012
     month: 12
     day: 18
   title: Ahmet Yildirim c. Turquie
   title-short: Yildirim c. Turquie
-  number: n^o^ 3111/10
+  number: n^o^ 3111/10
   ECLI:
   URL: http://hudoc.echr.coe.int/eng?i=001-115401
   comments:
 - type: legal_case
   id: cedhSilver
-  authority: Cour EDH
+  authority: Cour EDH
   section: ch.
-  issued:
+  issued: 
     year: 1983
     month: 03
     day: 25
   title: Silver et autres c. Royaume-Uni
   title-short: Silver c. R-U
-  number: n^o^ 5947/72
+  number: n^o^ 5947/72
   ECLI:
   URL: http://hudoc.echr.coe.int/eng?i=001-62133
   comments:
 - type: legal_case
   id: cedhKlass
-  authority: Cour EDH
+  authority: Cour EDH
   section: Plén.
-  issued:
+  issued: 
     year: 1978
     month: 09
     day: 06
   title: Klass et autres c. Allemagne
   title-short: Klass c. All.
-  number: n^o^ 5029/71
+  number: n^o^ 5029/71
   ECLI:
   URL: http://hudoc.echr.coe.int/eng?i=001-62068
   comments:
 - type: legal_case
   id: cedhWeber
-  authority: Cour EDH
-  section: 3^e^ sect.
+  authority: Cour EDH
+  section: 3^e^ sect.
   issued:
     year: 2006
     month: 06
     day: 29
   title: Weber et Saravia c. Allemagne
   title-short: Weber c. All.
-  number: n^o^ 54934/00
+  number: n^o^ 54934/00
   ECLI:
   URL: http://hudoc.echr.coe.int/eng?i=001-91699
   comments:
 - type: legal_case
   id: cedhLiberty
-  authority: Cour EDH
-  section: 4^e^ sect.
+  authority: Cour EDH
+  section: 4^e^ sect.
   issued:
     year: 2008
     month: 07
     day: 01
   title: Liberty et autres c. Royaume-Uni
   title-short: Liberty c. R-U
-  number: n^o^ 58243/00
-  ECLI:
+  number: n^o^ 58243/00
+  ECLI: 
   URL: http://hudoc.echr.coe.int/eng?i=001-87208
   comments:
 - type: legal_case
   id: cedhKennedy
-  authority: Cour EDH
-  section: 4^e^ sect.
+  authority: Cour EDH
+  section: 4^e^ sect.
   issued:
     year: 2010
     month: 05
     day: 18
   title: Kennedy c. Royaume-Uni
   title-short: Kennedy c. R-U
-  number: n^o^ 26839/05
+  number: n^o^ 26839/05
   ECLI:
   URL: http://hudoc.echr.coe.int/eng?i=001-98672
   comments:
 - type: legal_case
   id: cjueDRI
   authority: CJUE
-  section: g^de^ ch.
+  section: g^de^ ch.
   issued:
     year: 2014
     month: 04
@@ -168,7 +168,7 @@ references:
 - type: legal_case
   id: cjueSchrems
   authority: CJUE
-  section: g^de^ ch.
+  section: g^de^ ch.
   issued:
     year: 2015
     month: 10
@@ -181,36 +181,36 @@ references:
   comments:
 - type: legal_case
   id: cedhZakharov
-  authority: Cour EDH
-  section: g^de^ ch.
+  authority: Cour EDH
+  section: g^de^ ch.
   issued:
     year: 2015
     month: 12
     day: 04
   title: Roman Zakharov c. Russie
   title-short: Zakharov c. Russie
-  number: n^o^ 47143/06
+  number: n^o^ 47143/06
   ECLI:
   URL: http://hudoc.echr.coe.int/eng?i=001-160008
   comments:
 - type: legal_case
   id: cedhMarper
-  authority: Cour EDH
-  section: g^de^ ch.
+  authority: Cour EDH
+  section: g^de^ ch.
   issued:
     year: 2008
     month: 12
     day: 04
   title: S. et Marper c. Royaume-Uni
   title-short: Marper c. R-U
-  number: n^os^ 30562/04 et 30566/04
+  number: n^os^ 30562/04 et 30566/04
   ECLI:
   URL: http://hudoc.echr.coe.int/eng?i=001-90052
   comments:
 - type: legal_case
   id: cjueIPI
   authority: CJUE
-  section:
+  section: 
   issued:
     year: 2013
     month: 11
@@ -223,50 +223,50 @@ references:
   comments:
 - type: legal_case
   id: cedhLeander
-  authority: Cour EDH
-  section:
+  authority: Cour EDH
+  section: 
   issued:
     year: 1987
     month: 03
     day: 26
   title: Leander c. Suède
   title-short: Leander c. Suède
-  number: n^o^ 9248/81
+  number: n^o^ 9248/81
   ECLI:
   URL: http://hudoc.echr.coe.int/eng?i=001-62077
   comments:
 - type: legal_case
   id: cedhRotaru
-  authority: Cour EDH
-  section:
+  authority: Cour EDH
+  section: 
   issued:
     year: 2000
     month: 05
     day: 04
   title: Rotaru c. Roumanie
   title-short: Rotaru c. Roumanie
-  number: n^o^ 28341/95
+  number: n^o^ 28341/95
   ECLI:
   URL: http://hudoc.echr.coe.int/eng?i=001-63075
   comments:
 - type: legal_case
   id: cedhSzabo
-  authority: Cour EDH
-  section:
+  authority: Cour EDH
+  section: 
   issued:
     year: 2016
     month: 01
     day: 12
   title: Szabó et Vissy c. Hongrie
   title-short: Szabó c. Hongrie
-  number: n^o^ 37138/14
+  number: n^o^ 37138/14
   ECLI:
   URL: http://hudoc.echr.coe.int/eng?i=001-160020
   comments:
 - type: legal_case
   id: cjueCruciano
   authority: CJUE
-  section: g^de^ ch.
+  section: g^de^ ch.
   issued:
     year: 2014
     month: 03
@@ -280,7 +280,7 @@ references:
 - type: legal_case
   id: cjuePfleger
   authority: CJUE
-  section: 3^e^ ch.
+  section: 3^e^ ch.
   issued:
     year: 2014
     month: 04
@@ -294,7 +294,7 @@ references:
 - type: legal_case
   id: cjueIrlandeVsEuroparl
   authority: CJUE
-  section:
+  section: 
   issued:
     year: 2009
     month: 02
@@ -307,158 +307,158 @@ references:
   comments:
 - type: legal_case
   id: cedhShimovolos
-  authority: Cour EDH
-  section: 1^re^ sect.
+  authority: Cour EDH
+  section: 1^re^ sect.
   issued:
     year: 2011
     month: 06
     day: 21
   title: "Shimovolos c. Russie"
-  number: n^o^ 30164/09
+  number: n^o^ 30164/09
   ECLI:
   URL:
   comments:
 - type: legal_case
   id: cedhNiemietz
-  authority: Cour EDH
-  section:
+  authority: Cour EDH
+  section: 
   issued:
     year: 1992
     month: 12
     day: 16
   title: "Niemietz c. Allemagne"
-  number: n^o^ 13710/88
+  number: n^o^ 13710/88
   ECLI:
   URL:
   comments:
 - type: legal_case
   id: cedhCopland
-  authority: Cour EDH
-  section: 4^e^ sect.
+  authority: Cour EDH
+  section: 4^e^ sect.
   issued:
     year: 2007
     month: 04
     day: 03
   title: Copland c. Royaume-Uni
-  number: n^o^ 62617/00
+  number: n^o^ 62617/00
   ECLI:
   URL:
   comments:
 - type: legal_case
   id: cedhDragojevic
-  authority: Cour EDH
-  section:1^re^ sect.
+  authority: Cour EDH
+  section:  1^re^ sect.
   issued:
     year: 2015
     month: 01
     day: 15
   title: "Dragojević c. Croatie"
-  number: n^o^ 68955/11
+  number: n^o^ 68955/11
   ECLI:
   URL:
   comments:
 - type: legal_case
   id: cedhPeck
-  authority: Cour EDH
-  section:
+  authority: Cour EDH
+  section: 
   issued:
     year: 2003
     month: 01
     day: 28
   title: Peck c. Royaume-Uni
   title-short: Peck c. R-U
-  number: n^o^ 44647/98
+  number: n^o^ 44647/98
   ECLI:
   URL:
   comments:
 - type: legal_case
   id: cedhEkimdzhiev
-  authority: Cour EDH
-  section:
+  authority: Cour EDH
+  section: 
   issued:
     year: 2007
     month: 06
     day: 28
   title: "Association pour l'intégration européenne et les droits de l'homme et Ekimdzhiev c. Bulgarie"
   title-short: "Ekimdzhiev c. Bulgarie"
-  number: n^o^ 62540/00
+  number: n^o^ 62540/00
   ECLI:
   URL:
   comments:
 - type: legal_case
   id: cedhIordachi
-  authority: Cour EDH
-  section: 4^e^ sect.
+  authority: Cour EDH
+  section: 4^e^ sect.
   issued:
     year: 2009
     month: 02
     day: 10
   title: "Iordachi et autres c. Moldova"
   title-short: "Iordachi c. Moldova"
-  number: n^o^ 25198/02
+  number: n^o^ 25198/02
   ECLI:
   URL:
   comments:
 - type: legal_case
   id: cedhHalford
-  authority: Cour EDH
-  section:
+  authority: Cour EDH
+  section: 
   issued:
     year: 1997
     month: 06
     day: 25
   title: Halford c. Royaume-Uni
   title-short: Halford c. R-U
-  number: n^o^ 20695/92
+  number: n^o^ 20695/92
   ECLI:
   URL:
   comments:
 - type: legal_case
   id: cedhPgjh
-  authority: Cour EDH
-  section: 3^e^ sect.
+  authority: Cour EDH
+  section: 3^e^ sect.
   issued:
     year: 2001
     month: 09
     day: 25
   title: "PG et JH c. Royaume-Uni"
   title-short: PG et JH c. R-U
-  number: n^o^ 4478/98
+  number: n^o^ 4478/98
   ECLI:
   URL:
   comments:
 - type: legal_case
   id: cedhSanMarino
-  authority: Cour EDH
-  section: 3^e^ sect.
+  authority: Cour EDH
+  section: 3^e^ sect.
   issued:
     year: 2015
     month: 07
     day: 07
   title: "MN et autres c. San Marino"
   title-short: MN c. San Marino
-  number: n^o^ 28005/12
+  number: n^o^ 28005/12
   ECLI:
   URL:
   comments:
 - type: legal_case
   id: cedhMalone
-  authority: Cour EDH
-  section:
+  authority: Cour EDH
+  section: 
   issued:
     year: 1984
     month: 08
     day: 02
   title: Malone c. Royaume-Uni
   title-short: Malone c. R-U
-  number: n^o^ 8691/79
+  number: n^o^ 8691/79
   ECLI:
   URL:
   comments:
 - type: legal_case
   id: cconstIdentite
   authority: Conseil constit.
-  section:
+  section: 
   issued:
     year: 2012
     month: 03
@@ -472,7 +472,7 @@ references:
 - type: legal_case
   id: cconstRenseignmt
   authority: Conseil constit.
-  section:
+  section: 
   issued:
     year: 2015
     month: 07
@@ -480,13 +480,13 @@ references:
   title: Loi relative au renseignement
   title-short: Loi renseignement
   number: 2015-713 DC
-  ECLI: FR:CC:2015:2015.713.DC
-  URL: http://www.conseil-constitutionnel.fr/conseil-constitutionnel/francais/les-decisions/acces-par-date/decisions-depuis-1959/2015/2015-713-dc/decision-n-2015-713-dc-du-23-juillet-2015.144138.html/
+  ECLI:
+  URL:
   comments:
 - type: legal_case
   id: cjueSabam
   authority: CJUE
-  section:
+  section: 
   issued:
     year: 2012
     month: 02
@@ -500,7 +500,7 @@ references:
 - type: legal_case
   id: cconstSurvintl
   authority: Conseil constit.
-  section:
+  section: 
   issued:
     year: 2015
     month: 11
@@ -514,7 +514,7 @@ references:
 - type: legal_case
   id: cconstAccesadmin2006
   authority: Conseil constit.
-  section:
+  section: 
   issued:
     year: 2006
     month: 01
@@ -528,7 +528,7 @@ references:
 - type: legal_case
   id: cconstLPM
   authority: Conseil constit.
-  section:
+  section: 
   issued:
     year: 2015
     month: 07
@@ -542,7 +542,7 @@ references:
 - type: legal_case
   id: cconstHadopi
   authority: Conseil constit.
-  section:
+  section: 
   issued:
     year: 2009
     month: 06
@@ -556,7 +556,7 @@ references:
 - type: legal_case
   id: cjceVerts
   authority: CJCE
-  section:
+  section: 
   issued:
     year: 1986
     month: 04
@@ -570,9 +570,9 @@ references:
 - type: legal_case
   id: cjceHeylens
   authority: CJCE
-  section:
+  section: 
   issued:
-    year:
+    year: 
     month:
     day:
   title: Heylens et autres
@@ -584,7 +584,7 @@ references:
 - type: legal_case
   id: cjceJohnston
   authority: CJCE
-  section:
+  section: 
   issued:
     year: 1986
     month: 05
@@ -598,7 +598,7 @@ references:
 - type: legal_case
   id: cjueUgt
   authority: CJUE
-  section:
+  section: 
   issued:
     year:
     month:
@@ -612,7 +612,7 @@ references:
 - type: legal_case
   id: cjueZz
   authority: CJUE
-  section: g^de^ ch.
+  section: g^de^ ch.
   issued:
     year: 2013
     month: 06
@@ -625,34 +625,34 @@ references:
   comments:
 - type: legal_case
   id: cedhVetter
-  authority: Cour EDH
-  section:
+  authority: Cour EDH
+  section: 
   issued:
     year: 2005
     month: 05
     day: 31
   title: Vetter c. France
-  number: n^o^ 59842/00
+  number: n^o^ 59842/00
   ECLI:
   URL:
   comments:
 - type: legal_case
   id: cedhKruslin
-  authority: Cour EDH
-  section:
+  authority: Cour EDH
+  section: 
   issued:
     year: 1990
     month: 04
     day: 24
   title: Kruslin c. France
-  number: n^o^ 11801/85
+  number: n^o^ 11801/85
   ECLI:
   URL:
   comments:
 - type: legal_case
   id: cjueTelekabel
   authority: CJUE
-  section:
+  section: 
   issued:
     year: 2014
     month: 03
@@ -664,32 +664,32 @@ references:
   comments:
 - type: legal_case
   id: cedhEkin
-  authority: Cour EDH
-  section:
+  authority: Cour EDH
+  section: 
   issued:
     year: 2001
     month: 07
     day: 17
   title: Association Ekin c. France
   title-short: Ekin c. France
-  number: n^o^ 39288/98
+  number: n^o^ 39288/98
   ECLI:
   URL:
   comments:
 - type: legal_case
   id: cedhDeweer
-  authority: Cour EDH
-  section:
+  authority: Cour EDH
+  section: 
   issued:
     year: 1980
     month: 02
     day: 27
   title: Deweer c. Belgique
-  number: n^o^ 6903/75
+  number: n^o^ 6903/75
 - type: legal_case
   id: cedhAdolf
-  authority: Cour EDH
-  section:
+  authority: Cour EDH
+  section: 
   issued:
     year: 1982
     month: 03
@@ -698,7 +698,7 @@ references:
 - type: legal_case
   id: cconstAudiovis
   authority: Conseil constit.
-  section:
+  section: 
   issued:
     year: 2009
     month: 03
@@ -714,11 +714,11 @@ references:
     month: 03
     day: 24
   title: KPMG
-  number: n^o^ 288460
+  number: n^o^ 288460
 - type: legal_case
   id: ukhighOpen
   authority: High Court du Royaume-Uni
-  section:
+  section: 
   issued:
     year: 2015
     month: 07
@@ -728,7 +728,7 @@ references:
 - type: legal_case
   id: cjueAklagaren
   authority: "CJUE"
-  section: "g^de^ ch."
+  section: "g^de^ ch."
   issued:
     year: 2013
     month: 02
@@ -753,13 +753,13 @@ references:
   authority: "Union européenne"
 - type: legislation
   id: frCpceL34-1
-  title: "L. 34-1"
+  title: "L. 34-1"
   authority: "France"
   container-title: "Code des postes et des communications électroniques"
   container-title-short: "CPCE"
 - type: legislation
   id: frLcen
-  title: "Loi n^o^ 2004-575 du 21 juin 2004 pour la confiance dans l'économie numérique"
+  title: "Loi n^o^ 2004-575 du 21 juin 2004 pour la confiance dans l'économie numérique"
   title-short: "LCEN"
 - type: legal_case
   id: cjueAgTele2
@@ -768,21 +768,21 @@ references:
     year: 2016
     month: 07
     day: 19
-  title: "Conclusions de l'avocat général M. Henrik Saugmandsgaard Øe"
+  title: "Conclusions de l'avocat général M. Henrik Saugmandsgaard Øe"
   title-short: "Conclusions de l'avocat général Saugmandsgaard Øe"
   number: "C-203/15, C-698/15"
   ECLI: ECLI:EU:C:2016:572
 - type: legal_case
   id: cedhPopescu
-  authority: Cour EDH
+  authority: Cour EDH
   section: no 2
-  issued:
+  issued: 
     year: 2007
     month: 04
     day: 26
   title: Dumitru Popescu c. Roumanie
   title-short: Popescu c. Roumanie
-  number: n^o^ 71525/01
+  number: n^o^ 71525/01
   ECLI:
   URL: http://hudoc.echr.coe.int/eng?i=001-62458
   comments:
@@ -790,72 +790,72 @@ references:
   id: cetatLamotte
   authority: Conseil d’État
   section: Ass.
-  issued:
+  issued: 
     year: 1950
     month: 02
     day: 17
   title: Ministre de l'agriculture c. Dame Lamotte
   title-short: Dame Lamotte
-  number: Rec. p. 110
+  number: Rec. p. 110
 - type: legal_case
   id: cetatFalco
   authority: Conseil d’État
   section: Ass.
-  issued:
+  issued: 
     year: 1953
     month: 04
     day: 17
   title: Falco et Vidaillac
   title-short: Falco
-  number: Rec. p. 175
+  number: Rec. p. 175
 - type: legal_case
   id: cetatDeltel
   authority: Conseil d’État
   section: Sect.
-  issued:
+  issued: 
     year: 1955
     month: 12
     day: 16
   title: Époux Deltel
   title-short: Deltel
-  number: Rec. p. 592
+  number: Rec. p. 592
 - type: legal_case
   id: cetatSimonet
   authority: Conseil d’État
   section: Sect.
-  issued:
+  issued: 
     year: 1957
     month: 05
     day: 17
   title: Simonet
   title-short: Simonet
-  number: Rec. p. 314
+  number: Rec. p. 314
 - type: legal_case
   id: cetatSimonet
   authority: Conseil d’État
   section: Sect.
-  issued:
+  issued: 
     year: 1957
     month: 05
     day: 17
   title: Simonet
   title-short: Simonet
-  number: Rec. p. 314
+  number: Rec. p. 314
 - type: legal_case
   id: cetatSimonet
   authority: Conseil d’État
   section: Sect.
-  issued:
+  issued: 
     year: 1957
     month: 05
     day: 17
   title: Simonet
   title-short: Simonet
-  number: Rec. p. 314
+  number: Rec. p. 314
 - type: legal_case
   id: cconst2011150
   authority: Conseil constit.
-  section:
+  section: 
   issued:
     year: 2011
     month: 07
@@ -869,7 +869,7 @@ references:
 - type: legal_case
   id: cconst99416
   authority: Conseil constit.
-  section:
+  section: 
   issued:
     year: 1999
     month: 07
@@ -883,7 +883,7 @@ references:
 - type: legal_case
   id: cconst93335
   authority: Conseil constit.
-  section:
+  section: 
   issued:
     year: 1994
     month: 01
@@ -897,7 +897,7 @@ references:
 - type: legal_case
   id: cconst86217
   authority: Conseil constit.
-  section:
+  section: 
   issued:
     year: 1986
     month: 09
@@ -910,7 +910,7 @@ references:
   comments:
 - type: legal_case
   id: cedhPradelle
-  authority: Cour EDH
+  authority: Cour EDH
   section:
   issued:
     year: 1992
@@ -918,10 +918,10 @@ references:
     day: 16
   title: Geouffre de la Pradelle c. France
   title-short: de la Pradelle c. France
-  number: n^o^ 12964/87
+  number: n^o^ 12964/87
 - type: legal_case
   id: cedhBellet
-  authority: Cour EDH
+  authority: Cour EDH
   section:
   issued:
     year: 1995
@@ -929,10 +929,10 @@ references:
     day: 04
   title: Bellet c. France
   title-short: Bellet c. France
-  number: n^o^ 23805/94
+  number: n^o^ 23805/94
 - type: legal_case
   id: cedhDeSouza
-  authority: Cour EDH
+  authority: Cour EDH
   section: g^de^ ch.
   issued:
     year: 2012
@@ -940,11 +940,11 @@ references:
     day: 13
   title: De Souza Ribeiro c. France
   title-short: De Souza Ribeiro c. France
-  number: n^o^ 22689/07
+  number: n^o^ 22689/07
 - type: legal_case
   id: cjceJohnston
   authority: CJCE
-  section:
+  section: 
   issued:
     year: 1986
     month: 05
@@ -955,7 +955,7 @@ references:
 - type: legal_case
   id: cjueRundfunk
   authority: CJUE
-  section:
+  section: 
   issued:
     year: 2003
     month: 05
@@ -973,7 +973,7 @@ references:
     day: 19
   title: "Mme B... A..."
   title-short: "B... A..."
-  number: n^o^ 397623
+  number: n^o^ 397623
 - type: legal_case
   id: cjueSchwarz
   authority: CJUE
@@ -994,7 +994,7 @@ references:
     day: 02
   title: "Joannides"
   title-short: "Joannides"
-  number: n^o^ 86662
+  number: n^o^ 86662
 - type: legal_case
   id: cetatUnionpharma
   authority: Conseil d’État
@@ -1004,11 +1004,11 @@ references:
     day: 16
   title: "Union nationale des grandes pharmacies de France"
   title-short: "Union nationale des grandes pharmacies de France"
-  number: n^os^ 69186, 69206 et 70749, Rec. p. 488
+  number: n^os^ 69186, 69206 et 70749, Rec. p. 488
 - type: legal_case
   id: cjueTele2
   authority: CJUE
-  section: g^de^ ch.
+  section: g^de^ ch.
   issued:
     year: 2016
     month: 12
@@ -1028,247 +1028,247 @@ references:
     day: 15
   title: "French Data Network et autres"
   title-short: "French Data Network et a."
-  number: n^os^ 389896 et 389140
+  number: n^os^ 389896 et 389140
   URL : https://www.legifrance.gouv.fr/affichJuriAdmin.do?oldAction=rechJuriAdmin&idTexte=CETATEXT000032064635&fastReqId=1953450762&fastPos=1
 - type: legal_case
   id: cetatArtigue
   authority: Conseil d’État
-  issued:
+  issued: 
     year: 1915
     month: 11
     day: 12
   title: "Abbé Artigue"
   title-short: "Abbé Artigue"
-  number: Rec. p. 309
+  number: Rec. p. 309
 - type: legal_case
   id: cetatCadel
   authority: Conseil d’État
   section: Sect.
-  issued:
+  issued: 
     year: 1931
     month: 01
     day: 09
   title: "Abbé Cadel"
   title-short: "Abbé Cadel"
-  number: Rec. p. 11
+  number: Rec. p. 11
 - type: legal_case
   id: cetatMathian
   authority: Conseil d’État
   section: Ass.
-  issued:
+  issued: 
     year: 1946
     month: 11
     day: 22
   title: "Mathian"
   title-short: "Mathian"
-  number: Rec. p. 278
+  number: Rec. p. 278
 - type: legal_case
   id: cetatFroment
   authority: Conseil d’État
   section: Sect.
-  issued:
+  issued: 
     year: 1966
     month: 11
     day: 18
   title: "Froment"
   title-short: "Froment"
-  number: Rec. p. 607
+  number: Rec. p. 607
 - type: legal_case
   id: cetatGarnotel
   authority: Conseil d’État
-  issued:
+  issued: 
     year: 1978
     month: 02
     day: 10
   title: "Garnotel"
   title-short: "Garnotel"
-  number: Rec. p. 905
+  number: Rec. p. 905
 - type: legal_case
   id: cetatSandre
   authority: Conseil d’État
-  issued:
+  issued: 
     year: 1980
     month: 07
     day: 25
   title: "Sandre"
   title-short: "Sandre"
-  number: Rec. p. 325
+  number: Rec. p. 325
 - type: legal_case
   id: cetatDivier
   authority: Conseil d’État
-  issued:
+  issued: 
     year: 1986
     month: 07
     day: 25
   title: "Divier"
   title-short: "Divier"
-  number: Rec. p. 208
+  number: Rec. p. 208
 - type: legal_case
   id: cetatScientologie
   authority: Conseil d’État
   section: Sect.
-  issued:
+  issued: 
     year: 1988
     month: 10
     day: 27
   title: "Église de scientologie de Paris"
   title-short: "Scientologie"
-  number: Rec. p. 354
+  number: Rec. p. 354
 - type: legal_case
   id: cetatCreditmut
   authority: Conseil d’État
-  issued:
+  issued: 
     year: 2006
     month: 01
     day: 16
   title: "Fédération du Crédit mutuel du Centre Est Europe"
   title-short: "Féd. du Crédit mutuel"
-  number: n^o^ 274721
+  number: n^o^ 274721
 - type: legal_case
   id: cetatJehovah
   authority: Conseil d’État
-  issued:
+  issued: 
     year: 2008
     month: 08
     day: 07
   title: "Témoins de Jéhovah"
   title-short: "Témoins de Jéhovah"
-  number: n^o^ 310220
+  number: n^o^ 310220
 - type: legal_case
   id: cetatMedecins
   authority: Conseil d’État
-  issued:
+  issued: 
     year: 1992
     month: 07
     day: 10
   title: "Syndicat des médecins libéraux et autres"
   title-short: "Syndicat des médecins libéraux"
-  number: n^os^ 105440, 106591, 110194 et 121353, Rec. p. 289
+  number: n^os^ 105440, 106591, 110194 et 121353, Rec. p. 289
 - type: legal_case
   id: cetatSeita
   authority: Conseil d’État
-  issued:
+  issued: 
     year: 1993
     month: 02
     day: 25
   title: "Comité central d'entreprise de la SEITA"
   title-short: "SEITA"
-  number: n^o^ 122993 
+  number: n^o^ 122993 
 - type: legal_case
   id: cetatPromouvoir
   authority: Conseil d’État
-  issued:
+  issued: 
     year: 2000
     month: 10
     day: 06
   title: "Association Promouvoir"
   title-short: "Association Promouvoir"
-  number: n^o^ 216901 
+  number: n^o^ 216901 
 - type: legal_case
   id: cetatRaiff
   authority: Conseil d’État
-  issued:
+  issued: 
     year: 1994
     month: 10
     day: 28
   title: "Raiff"
   title-short: "Raiff"
-  number: n^o^ 59767
+  number: n^o^ 59767
 - type: legal_case
   id: cetat23mai2014
   authority: Conseil d’État
   section: ord.
-  issued:
+  issued: 
     year: 2014
     month: 05
     day: 23
   title: ""
   title-short: ""
-  number: n^o^ 380560
+  number: n^o^ 380560
 - type: legal_case
   id: cetatLaudon
   authority: Conseil d’État
   section: Ass.
-  issued:
+  issued: 
     year: 1969
     month: 06
     day: 06
   title: "Dame Laudon et autres"
   title-short: "Laudon"
-  number: Rec. p. 288
+  number: Rec. p. 288
 - type: legal_case
   id: cetatNavigationaerienne
   authority: Conseil d’État
   section: Ass.
-  issued:
+  issued: 
     year: 1982
     month: 12
     day: 22
   title: "Comité central d'entreprise de la société française d'équipement pour la navigation aérienne"
   title-short: "S^té^ fra. d'équipement pour la navigation aérienne"
-  number: Rec. p. 436
+  number: Rec. p. 436
 - type: legal_case
   id: cetatCusenier
   authority: Conseil d’État
-  issued:
+  issued: 
     year: 1986
     month: 03
     day: 12
   title: "Ministre de la culture c. M^me^ Cusenier"
   title-short: "Cusenier"
-  number: Rec. T p. 403
+  number: Rec. T p. 403
 - type: legal_case
   id: cetatPoliciers
   authority: Conseil d’État
-  issued:
+  issued: 
     year: 1993
     month: 02
     day: 03
   title: "Union syndicale professionnelle des policiers municipaux"
   title-short: "Union syndicale professionnelle des policiers municipaux"
-  number: n^o^ 100832, Rec. p. 25
+  number: n^o^ 100832, Rec. p. 25
 - type: legal_case
   id: cetatMonuments
   authority: Conseil d’État
-  issued:
+  issued: 
     year: 1986
     month: 02
     day: 21
   title: "Compagnie des architectes en chef des monuments historiques"
   title-short: "Co. des architectes en chef des monuments historiques"
-  number: Rec. p. 45
+  number: Rec. p. 45
 - type: legal_case
   id: cetatENA
   authority: Conseil d’État
-  issued:
+  issued: 
     year: 1993
     month: 06
     day: 04
   title: "Association des anciens élèves de l'ENA, Denis et Mme Laigneau"
   title-short: "Association des anciens élèves de l'ENA"
-  number: Rec. p. 526
+  number: Rec. p. 526
 - type: legal_case
   id: cetatMAD
   authority: Conseil d’État
   section: form. spé.
-  issued:
+  issued: 
     year: 2016
     month: 10
     day: 19
   title: "M. A... D..."
   title-short: "A... D..."
-  number: n^o^ 396958
+  number: n^o^ 396958
 - type: legal_case
   id: cetatAccesADC
   authority: Conseil d’État
   section: 10^e^ et 9^e^ SSR
-  issued:
+  issued: 
     year: 2016
     month: 02
     day: 12
   title: "French Data Network et autres [accès administratif aux données de connexion]"
   title-short: "FDN [accès admin. aux données de connexion]"
-  number: n^o^ 388134
+  number: n^o^ 388134
   ECLI:
   URL: https://www.legifrance.gouv.fr/affichJuriAdmin.do?oldAction=rechJuriAdmin&idTexte=CETATEXT000032047966&fastReqId=549530502&fastPos=1
   comments: REP contre le décret n° 2014-1576 du 24 décembre 2014 relatif à l'accès administratif aux données de connexion
@@ -1276,20 +1276,20 @@ references:
   id: cetatFranceNature
   authority: Conseil d’État
   section: 9^e^ et 10^e^ SSR
-  issued:
+  issued: 
     year: 2001
     month: 01
     day: 10
   title: "France Nature Environnement"
   title-short: "France Nature Environnement"
-  number: n^o^ 217237
+  number: n^o^ 217237
   ECLI:
   URL: https://www.legifrance.gouv.fr/affichJuriAdmin.do?idTexte=CETATEXT000008067210
 - type: legal_case
   id: cjceInterEnv
   authority: CJCE
   section:
-  issued:
+  issued: 
     year: 1997
     month: 12
     day: 18
@@ -1301,7 +1301,7 @@ references:
 - type: legal_case
   id: cconstVoieHertz
   authority: Conseil constit.
-  section:
+  section: 
   issued:
     year: 2016
     month: 10
@@ -1322,7 +1322,7 @@ references:
     day: 18
   title: "La Quadrature du Net et autres [Décret non publié sur les activités de surveillance internationale par les services de renseignements]"
   title-short: "LQDN [Décret non publié sur les activités de surveillance internationale]"
-  number: n^o^ 393080
+  number: n^o^ 393080
   ECLI: FR:CECHS:2016:393080.2016111
   URL: https://www.legifrance.gouv.fr/affichJuriAdmin.do?oldAction=rechJuriAdmin&idTexte=CETATEXT000033442775&fastReqId=1655242348&fastPos=1
   comments:
@@ -1349,7 +1349,7 @@ references:
     day: 10
   title: "Irlande contre Parlement Européen et Conseil de l'Union Européenne"
   title-short: "Irlande contre Parlement Européen"
-  number: C-301/06 P
+  number: C-301/06 P
   ECLI: EU:C:2009:68
   URL: http://curia.europa.eu/juris/document/document.jsf?text=&docid=72843&pageIndex=0&doclang=FR&mode=lst&dir=&occ=first&part=1&cid=632950
 - type: legal_case
@@ -1451,7 +1451,7 @@ references:
     day: 15
   title: Association «Bail à part, tremplin pour le logement»
   title-short: Association «Bail à part»
-  number: n^o^ 391654
+  number: n^o^ 391654
 - type: legal_case
   id: cjuebreyer
   authority: CJUE
@@ -1471,11 +1471,11 @@ references:
     year: 2008
     month: 06
     day: 16
-  title: "Délibération n^o^ 2008-174 du 16 juin 2008 portant avis sur un projet de décret en Conseil d'Etat portant création au profit de la direction centrale de la sécurité publique d'un traitement automatisé de données à caractère personnel dénommé « EDVIGE »"
+  title: "Délibération n^o^ 2008-174 du 16 juin 2008 portant avis sur un projet de décret en Conseil d'Etat portant création au profit de la direction centrale de la sécurité publique d'un traitement automatisé de données à caractère personnel dénommé « EDVIGE »"
   title-short: "Avis sur le traitement EDVIGE"
-  number: n^o^ 2008-174
+  number: n^o^ 2008-174
   URL : https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000019104139
-  container-title: "JORF n^o^ 0152 du 1^er^ juillet 2008"
+  container-title: "JORF n^o^ 0152 du 1^er^ juillet 2008"
   container-title-short: "JORF"
 - type: legislation
   id: cnilVisage
@@ -1484,11 +1484,11 @@ references:
     year: 2007
     month: 12
     day: 11
-  title: "Délibération n^o^ 2007-368 du 11 décembre 2007 portant avis sur un projet de décret en Conseil d'Etat modifiant le décret n^o^ 2005-1726 du 30 décembre 2005 relatif aux passeports électroniques"
+  title: "Délibération n^o^ 2007-368 du 11 décembre 2007 portant avis sur un projet de décret en Conseil d'Etat modifiant le décret n^o^ 2005-1726 du 30 décembre 2005 relatif aux passeports électroniques"
   title-short: "Avis relatif aux passeports électroniques"
-  number: n^o^ 2007-368
+  number: n^o^ 2007-368
   URL: https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000018777441
-  container-title: "JORF n^o^ 0109 du 10 mai 2008"
+  container-title: "JORF n^o^ 0109 du 10 mai 2008"
   container-title-short: "JORF"
 - type: legislation
   id: cnilReconFac
@@ -1497,15 +1497,15 @@ references:
     year: 2016
     month: 01
     day: 28
-  title: "Délibération n^o^ 2016-012 du 28 janvier 2016 portant avis sur un projet de décret portant modification d'un traitement automatisé de données à caractère personnel dénommé PARAFE"
+  title: "Délibération n^o^ 2016-012 du 28 janvier 2016 portant avis sur un projet de décret portant modification d'un traitement automatisé de données à caractère personnel dénommé PARAFE"
   title-short: "Avis sur le traitement PARAFE"
-  number: n^o^ 2016-012
+  number: n^o^ 2016-012
   URL: https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000032372514
-  container-title: "JORF n^o^ 0083 du 8 avril 2016"
+  container-title: "JORF n^o^ 0083 du 8 avril 2016"
   container-title-short: "JORF"
 - type: legal_case
   id: cedhMK
-  authority: Cour EDH
+  authority: Cour EDH
   section:
   issued:
     year: 2013
@@ -1513,7 +1513,7 @@ references:
     day: 18
   title: "M. K contre France"
   title-short: "M. K c. France"
-  number: n^o^ 19522/09
+  number: n^o^ 19522/09
   URL:
 - type: legal_case
   id: cjueScarletExt
@@ -1528,167 +1528,4 @@ references:
   number: C-70/10
   URL: http://curia.europa.eu/juris/liste.jsf?language=fr&num=C-70/10
   ECLI: "ECLI:EU:C:2011:771"
-- type: legal_case
-  id: cconstFinance2002
-  authority: Conseil constit.
-  section:
-  issued:
-    year: 2001
-    month: 12
-    day: 27
-  title: Loi de finance pour 2002
-  title-short: Loi de finance pour 2002
-  number: 2001-456 DC
-  ECLI: FR:CC:2001:2001.456.DC 
-  URL: http://www.conseil-constitutionnel.fr/conseil-constitutionnel/francais/les-decisions/acces-par-date/decisions-depuis-1959/2001/2001-456-dc/decision-n-2001-456-dc-du-27-decembre-2001.513.html/
-  comments:
-- type: legal_case
-  id: ceHakJaHan
-  authority: Conseil d’État
-  section:
-  issued:
-    year: 2002
-    month: 11
-    day: 06
-  title: Mme Hak Ja Han
-  title-short: Hak Ja Han
-  number: n^o^ 194296
-  ECLI:
-  URL: https://www.legifrance.gouv.fr/affichJuriAdmin.do?oldAction=rechJuriAdmin&idTexte=CETATEXT000008150584&fastReqId=1679336141&fastPos=2
-  comments: divisibilité dans la communication des fichiers intéressant la sûreté de l'État et principe du contradictoire devant le conseil d'État
-- type: legal_case
-  id: cconstLoiMacron
-  authority: Conseil constit.
-  section:
-  issued:
-    year: 2015
-    month: 08
-    day: 05
-  title: Loi pour la croissance, l'activité et l'égalité des chances économiques 
-  title-short: Loi pour la croissance, l'activité et l'égalité des chances économiques 
-  number: 2015-715 DC
-  ECLI: FR:CC:2015:2015.715.DC  
-  URL: http://www.conseil-constitutionnel.fr/decision-n-2015-715-dc-du-05-aout-2015.144229.html
-  comments: points 135 à 137 : invalidation des pouvoirs d'enquête de l'Autorité de la concurrence sur l'accès aux données de connexion
-- type: legal_case
-  id: cconstCovedSA
-  authority: Conseil constit.
-  section:
-  issued:
-    year: 2012
-    month: 01
-    day: 27
-  title: Société COVED SA [Droit de communication de l'administration des douanes]
-  title-short: Société COVED SA 
-  number: 2011-214 QPC
-  ECLI: FR:CC:2012:2011.214.QPC  
-  URL: http://www.conseil-constitutionnel.fr/conseil-constitutionnel/francais/les-decisions/acces-par-date/decisions-depuis-1959/2012/2011-214-qpc/decision-n-2011-214-qpc-du-27-janvier-2012.104626.html
-  comments: point 6. conformité de l'article 65 du code des douanes à la Constitution.
-- type: legal_case
-  id: cedhgillan
-  authority: Cour EDH
-  section: 4^e^ sect
-  issued:
-    year: 2010
-    month: 01
-    day: 12
-  title: Gillan et Quinton c. Royaume-Uni
-  title-short: Gillan c. R.-U.
-  number: n^o^ 4158/05
-  ECLI:
-  URL: http://hudoc.echr.coe.int/eng?i=001-96677
-- type: legal_case
-  id: cedhSegerstedt
-  authority: Cour EDH
-  section: 2^e^ sect.
-  issued:
-    year: 2006
-    month: 09
-    day: 06
-  title: "Segerstedt Wiberg et autres c. Suède"
-  title-short: "Segerstedt Wiberg"
-  number: n^o^ 62332/00
-  ECLI:
-  URL: http://hudoc.echr.coe.int/eng?i=001-75592
-  comments:
-- type: legal_case
-  id: cedhHaralambie
-  authority: Cour EDH
-  section: 3^e^ sect.
-  issued:
-    year: 2010
-    month: 01
-    day: 27
-  title: "Haralambie c. Roumanie"
-  title-short: "Haralambie c. Roumanie"
-  number: n^o^ 21737/03
-  ECLI:
-  URL: http://hudoc.echr.coe.int/eng?i=001-95302
-  comments:
-- type: legal_case
-  id: cedhTurek
-  authority: Cour EDH
-  section: 4^e^ sect.
-  issued:
-    year: 2006
-    month: 02
-    day: 14
-  title: "Turek c. Slovaquie"
-  title-short: "Turek c. Slovaquie"
-  number: n^o^ 57986/00
-  ECLI:
-  URL: http://hudoc.echr.coe.int/eng?i=001-72355
-  comments:
-- type: legal_case
-  id: cconstLiberteAssociation
-  authority: Conseil constit.
-  section:
-  issued:
-    year: 1971
-    month: 07
-    day: 16
-  title: "Loi complétant les dispositions des articles 5 et 7 de la loi du 1er juillet 1901 relative au contrat d'association"
-  title-short: "Liberté d'Association"
-  number: 71-44 DC 
-  ECLI: FR:CC:1971:71.44.DC
-  URL: http://www.conseil-constitutionnel.fr/conseil-constitutionnel/francais/les-decisions/acces-par-date/decisions-depuis-1959/1971/71-44-dc/decision-n-71-44-dc-du-16-juillet-1971.7217.html
-  comments:
-- type: legal_case
-  id: cedhweber
-  authority: CEDH
-  section:
-  issued:
-    year: 2006
-    month: 06
-    day: 29
-  title: Weber et Saravia c. Allemagne
-  title-short: Weber c. Allemagne
-  number: 54934/00
-  ECLI:
-  URL: http://hudoc.echr.coe.int/eng?i=001-76586
-  comments:
-- type: legal_case
-  id: cedhRE
-  authority: Cour EDH
-  section: 4^e^ sect.
-  issued:
-    year: 2015
-    month: 10
-    day: 25
-  title: R.E. c. Royaume-Uni
-  title-short: R.E. c. R.-U.
-  number: n^o^ 62498/11
-  URL : http://hudoc.echr.coe.int/eng?i=001-158159
-- type: legal_case
-  id: cedhpruteanu
-  authority: Cour EDH
-  section: 3^e^ sect.
-  issued:
-    year: 2015
-    month: 02
-    day: 03
-  title: Pruteanu c. Roumanie
-  title-short: Pruteanu c. Roumanie
-  number: n^o^ 30181/05
-  URL: http://hudoc.echr.coe.int/eng?i=001-150776
 ...
