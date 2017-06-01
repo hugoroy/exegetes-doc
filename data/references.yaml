@@ -1598,15 +1598,15 @@ references:
   ECLI:
   URL: http://hudoc.echr.coe.int/eng?i=001-96677
 - type: legal_case
-  id: cedhSegersted
+  id: cedhSegerstedt
   authority: Cour EDH
   section: 2^e^ sect.
   issued:
     year: 2006
     month: 09
     day: 06
-  title: "Segersted Wiberg et autres c. Suède"
-  title-short: "Segersted Wiberg"
+  title: "Segerstedt Wiberg et autres c. Suède"
+  title-short: "Segerstedt Wiberg"
   number: n^o^ 62332/00
   ECLI:
   URL: http://hudoc.echr.coe.int/eng?i=001-75592
