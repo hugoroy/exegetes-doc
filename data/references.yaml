@@ -1584,19 +1584,19 @@ references:
 #   ECLI: FR:CC:2012:2011.214.QPC  
 #   URL: http://www.conseil-constitutionnel.fr/conseil-constitutionnel/francais/les-decisions/acces-par-date/decisions-depuis-1959/2012/2011-214-qpc/decision-n-2011-214-qpc-du-27-janvier-2012.104626.html
 #   comments: point 6. conformité de l’article 65 du code des douanes à la Constitution.
-# - type: legal_case
-#   id: cedhgillan
-#   authority: Cour EDH
-#   section: 4^e^ sect
-#   issued:
-#     year: 2010
-#     month: 01
-#     day: 12
-#   title: Gillan et Quinton c. Royaume-Uni
-#   title-short: Gillan c. R.-U.
-#   number: n^o^ 4158/05
-#   ECLI:
-#   URL: http://hudoc.echr.coe.int/eng?i=001-96677
+- type: legal_case
+  id: cedhgillan
+  authority: Cour EDH
+  section: 4^e^ sect
+  issued:
+    year: 2010
+    month: 01
+    day: 12
+  title: Gillan et Quinton c. Royaume-Uni
+  title-short: Gillan c. R.-U.
+  number: n^o^ 4158/05
+  ECLI:
+  URL: http://hudoc.echr.coe.int/eng?i=001-96677
 # - type: legal_case
 #   id: cedhSegerstedt
 #   authority: Cour EDH
@@ -1652,28 +1652,28 @@ references:
 #   ECLI: FR:CC:1971:71.44.DC
 #   URL: http://www.conseil-constitutionnel.fr/conseil-constitutionnel/francais/les-decisions/acces-par-date/decisions-depuis-1959/1971/71-44-dc/decision-n-71-44-dc-du-16-juillet-1971.7217.html
 #   comments:
-# - type: legal_case
-#   id: cedhRE
-#   authority: Cour EDH
-#   section: 4^e^ sect.
-#   issued:
-#     year: 2015
-#     month: 10
-#     day: 25
-#   title: R.E. c. Royaume-Uni
-#   title-short: R.E. c. R.-U.
-#   number: n^o^ 62498/11
-#   URL : http://hudoc.echr.coe.int/eng?i=001-158159
-# - type: legal_case
-#   id: cedhpruteanu
-#   authority: Cour EDH
-#   section: 3^e^ sect.
-#   issued:
-#     year: 2015
-#     month: 02
-#     day: 03
-#   title: Pruteanu c. Roumanie
-#   title-short: Pruteanu c. Roumanie
-#   number: n^o^ 30181/05
-#   URL: http://hudoc.echr.coe.int/eng?i=001-150776
+- type: legal_case
+  id: cedhRE
+  authority: Cour EDH
+  section: 4^e^ sect.
+  issued:
+    year: 2015
+    month: 10
+    day: 25
+  title: R.E. c. Royaume-Uni
+  title-short: R.E. c. R.-U.
+  number: n^o^ 62498/11
+  URL : http://hudoc.echr.coe.int/eng?i=001-158159
+- type: legal_case
+  id: cedhpruteanu
+  authority: Cour EDH
+  section: 3^e^ sect.
+  issued:
+    year: 2015
+    month: 02
+    day: 03
+  title: Pruteanu c. Roumanie
+  title-short: Pruteanu c. Roumanie
+  number: n^o^ 30181/05
+  URL: http://hudoc.echr.coe.int/eng?i=001-150776
 ...
