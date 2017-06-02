@@ -1528,4 +1528,152 @@ references:
   number: C-70/10
   URL: http://curia.europa.eu/juris/liste.jsf?language=fr&num=C-70/10
   ECLI: "ECLI:EU:C:2011:771"
+# - type: legal_case
+#   id: cconstFinance2002
+#   authority: Conseil constit.
+#   section:
+#   issued:
+#     year: 2001
+#     month: 12
+#     day: 27
+#   title: Loi de finance pour 2002
+#   title-short: Loi de finance pour 2002
+#   number: 2001-456 DC
+#   ECLI: FR:CC:2001:2001.456.DC 
+#   URL: http://www.conseil-constitutionnel.fr/conseil-constitutionnel/francais/les-decisions/acces-par-date/decisions-depuis-1959/2001/2001-456-dc/decision-n-2001-456-dc-du-27-decembre-2001.513.html/
+#   comments:
+# - type: legal_case
+#   id: ceHakJaHan
+#   authority: Conseil d’État
+#   section:
+#   issued:
+#     year: 2002
+#     month: 11
+#     day: 06
+#   title: Mme Hak Ja Han
+#   title-short: Hak Ja Han
+#   number: n^o^ 194296
+#   ECLI:
+#   URL: https://www.legifrance.gouv.fr/affichJuriAdmin.do?oldAction=rechJuriAdmin&idTexte=CETATEXT000008150584&fastReqId=1679336141&fastPos=2
+#   comments: divisibilité dans la communication des fichiers intéressant la sûreté de l’État et principe du contradictoire devant le conseil d’État
+# - type: legal_case
+#   id: cconstLoiMacron
+#   authority: Conseil constit.
+#   section:
+#   issued:
+#     year: 2015
+#     month: 08
+#     day: 05
+#   title: Loi pour la croissance, l’activité et l’égalité des chances économiques 
+#   title-short: Loi pour la croissance, l’activité et l’égalité des chances économiques 
+#   number: 2015-715 DC
+#   ECLI: FR:CC:2015:2015.715.DC  
+#   URL: http://www.conseil-constitutionnel.fr/decision-n-2015-715-dc-du-05-aout-2015.144229.html
+#   comments: points 135 à 137 : invalidation des pouvoirs d’enquête de l’Autorité de la concurrence sur l’accès aux données de connexion
+# - type: legal_case
+#   id: cconstCovedSA
+#   authority: Conseil constit.
+#   section:
+#   issued:
+#     year: 2012
+#     month: 01
+#     day: 27
+#   title: Société COVED SA [Droit de communication de l’administration des douanes]
+#   title-short: Société COVED SA 
+#   number: 2011-214 QPC
+#   ECLI: FR:CC:2012:2011.214.QPC  
+#   URL: http://www.conseil-constitutionnel.fr/conseil-constitutionnel/francais/les-decisions/acces-par-date/decisions-depuis-1959/2012/2011-214-qpc/decision-n-2011-214-qpc-du-27-janvier-2012.104626.html
+#   comments: point 6. conformité de l’article 65 du code des douanes à la Constitution.
+# - type: legal_case
+#   id: cedhgillan
+#   authority: Cour EDH
+#   section: 4^e^ sect
+#   issued:
+#     year: 2010
+#     month: 01
+#     day: 12
+#   title: Gillan et Quinton c. Royaume-Uni
+#   title-short: Gillan c. R.-U.
+#   number: n^o^ 4158/05
+#   ECLI:
+#   URL: http://hudoc.echr.coe.int/eng?i=001-96677
+# - type: legal_case
+#   id: cedhSegerstedt
+#   authority: Cour EDH
+#   section: 2^e^ sect.
+#   issued:
+#     year: 2006
+#     month: 09
+#     day: 06
+#   title: "Segerstedt Wiberg et autres c. Suède"
+#   title-short: "Segerstedt Wiberg"
+#   number: n^o^ 62332/00
+#   URL: http://hudoc.echr.coe.int/eng?i=001-75592
+#   comments:
+# - type: legal_case
+#   id: cedhHaralambie
+#   authority: Cour EDH
+#   section: 3^e^ sect.
+#   issued:
+#     year: 2010
+#     month: 01
+#     day: 27
+#   title: "Haralambie c. Roumanie"
+#   title-short: "Haralambie c. Roumanie"
+#   number: n^o^ 21737/03
+#   ECLI:
+#   URL: http://hudoc.echr.coe.int/eng?i=001-95302
+#   comments:
+# - type: legal_case
+#   id: cedhTurek
+#   authority: Cour EDH
+#   section: 4^e^ sect.
+#   issued:
+#     year: 2006
+#     month: 02
+#     day: 14
+#   title: "Turek c. Slovaquie"
+#   title-short: "Turek c. Slovaquie"
+#   number: n^o^ 57986/00
+#   ECLI:
+#   URL: http://hudoc.echr.coe.int/eng?i=001-72355
+#   comments:
+# - type: legal_case
+#   id: cconstLiberteAssociation
+#   authority: Conseil constit.
+#   section:
+#   issued:
+#     year: 1971
+#     month: 07
+#     day: 16
+#   title: "Loi complétant les dispositions des articles 5 et 7 de la loi du 1er juillet 1901 relative au contrat d’association"
+#   title-short: "Liberté d’Association"
+#   number: 71-44 DC 
+#   ECLI: FR:CC:1971:71.44.DC
+#   URL: http://www.conseil-constitutionnel.fr/conseil-constitutionnel/francais/les-decisions/acces-par-date/decisions-depuis-1959/1971/71-44-dc/decision-n-71-44-dc-du-16-juillet-1971.7217.html
+#   comments:
+# - type: legal_case
+#   id: cedhRE
+#   authority: Cour EDH
+#   section: 4^e^ sect.
+#   issued:
+#     year: 2015
+#     month: 10
+#     day: 25
+#   title: R.E. c. Royaume-Uni
+#   title-short: R.E. c. R.-U.
+#   number: n^o^ 62498/11
+#   URL : http://hudoc.echr.coe.int/eng?i=001-158159
+# - type: legal_case
+#   id: cedhpruteanu
+#   authority: Cour EDH
+#   section: 3^e^ sect.
+#   issued:
+#     year: 2015
+#     month: 02
+#     day: 03
+#   title: Pruteanu c. Roumanie
+#   title-short: Pruteanu c. Roumanie
+#   number: n^o^ 30181/05
+#   URL: http://hudoc.echr.coe.int/eng?i=001-150776
 ...
