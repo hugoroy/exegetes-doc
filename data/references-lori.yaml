@@ -3,7 +3,7 @@ references:
 - type: legal_case
   id: echrRE
   authority: "ECtHR"
-  section: "4th sect."
+  section: "4^th^ sect."
   issued:
     year: 2015
     month: 10
@@ -31,7 +31,7 @@ references:
 - type: legal_case
   id: echrPruteanu
   authority: "ECtHR"
-  section: "3rd sect."
+  section: "3^rd^ sect."
   issued:
     year: 2015
     month: 02
