@@ -1,19 +1,18 @@
+---
+title-meta: "Titre du fichier"
+...
+
 <!-- AIDE pour les PADS : <https://pad.exegetes.eu.org/group.html/5/pad.html/g.9PizVXtKx3X5Vpe3$Aide-Pad-Pandoc-markdown>
        Aide pour écrire en Markdown (gras, titre, citation, etc.): http://commonmark.org/help/ 
        Manuel d'utilisation : http://pandoc.org/MANUAL.html#pandocs-markdown
        Test en ligne : http://pandoc.org/try/ 
        Pour faire un commentaire : ne pas utiliser le signe "%" mais utiliser le style HTML tel qu'ici 
 
-Wiki : https://exegetes.eu.org/amateurs/doku.php?id=FIXME
-PDF : https://nuage.exegetes.eu.org/remote.php/webdav/Commun/outils/FIXME
+Wiki : https://exegetes.eu.org/amateurs/doku.php?id=affaire:donneescoamf
+Citron : https://citron.exegetes.eu.org/voir.php?type=project&id=13
+Nuage: https://nuage.exegetes.eu.org/index.php/apps/files/?dir=/Commun/Intervention%20QPC%20AMF&fileid=19846
 -->
-
----
-title-meta: "Titre du fichier"
-...
-
-<!-- Page de garde LaTeX : https://pad.exegetes.eu.org/group.html/FIXME --> \input{garde.tex}
-
+\input{garde.tex}
 <!-- Table des matières --> \tableofcontents \thispagestyle{empty}\setcounter{page}{0}
 
 
@@ -84,8 +83,8 @@ header-includes:
   - \newcounter{paranumero}
   - \newif\ifcounting\countingtrue
   - \newcommand{\para}[1]{\noindent\ifcounting\refstepcounter{paranumero}\fi{\small\strut\llap{\textsf{\scriptsize \theparanumero}\quad\quad}}\label{#1}}
-  - \newcommand{\parnum}[1]{{\small ¶\ref{#1}}}
-  - \newcommand{\vparnum}[1]{{\small ¶\vref{#1}}}
+  - \newcommand{\parnum}[1]{¶\ref{#1}}
+  - \newcommand{\vparnum}[1]{¶\vref{#1}}
   - \let\oldquote\quote
   - \let\endoldquote\endquote
   - \renewenvironment{quote}{\begin{oldquote}\renewcommand{\para}[1]{}}{\end{oldquote}}
@@ -106,9 +105,9 @@ header-includes:
 euro: true
 include-before:
   - \pagestyle{plain}
-csl: french-legal.csl
-bibliography: references.yaml
-css: stylesheet.css
+csl: ../../exegetesDoc/pandocincludes/french-legal.csl
+bibliography: ../../exegetesDoc/pandocincludes/references.yaml
+css: ../../exegetesDoc/pandocincludes/stylesheet.css
 latex-environment:
   loi: [loi]
   parl: [parl]
