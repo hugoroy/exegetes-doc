@@ -2,7 +2,7 @@
 - type: legal_case
   id: echrRE
   authority: "ECtHR"
-  section: 4th sect.
+  section: "4th sect."
   issued:
     year: 2015
     month: 10
