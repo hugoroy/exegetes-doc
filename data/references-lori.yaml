@@ -29,28 +29,28 @@
   comments: 
 - type: legal_case
   id: echrPruteanu
-  authority: ECtHR
-  section: 3rd sect.
+  authority: "ECtHR"
+  section: "3rd sect."
   issued:
     year: 2015
     month: 02
     day: 03
-  title: Pruteanu v. Romania
-  title-short: Pruteanu v. Romania
-  number: 30181/05
-  URL: http://hudoc.echr.coe.int/eng?i=001-150776
+  title: "Pruteanu v. Romania"
+  title-short: "Pruteanu v. Romania"
+  number: "30181/05"
+  URL: "http://hudoc.echr.coe.int/eng?i=001-150776"
 - type: legal_case
   id: ecjSCHREMS
-  authority: ECJ
-  section: g. ch.
+  authority: "ECJ"
+  section: "g. ch."
   issued:
     year: 2015
     month: 10
     day: 06
   title: "Maximilian Schrems v Data Protection Commissioner"
-  title-short: Schrems
-  number: C-362/14
+  title-short: "Schrems"
+  number: "C-362/14"
   ECLI: "ECLI:EU:C:2015:650"
-  URL: http://curia.europa.eu/juris/documents.jsf?num=C-362/14
+  URL: "http://curia.europa.eu/juris/documents.jsf?num=C-362/14"
   comments:
 ...
