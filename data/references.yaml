@@ -1556,20 +1556,20 @@ references:
 #   ECLI:
 #   URL: https://www.legifrance.gouv.fr/affichJuriAdmin.do?oldAction=rechJuriAdmin&idTexte=CETATEXT000008150584&fastReqId=1679336141&fastPos=2
 #   comments: divisibilité dans la communication des fichiers intéressant la sûreté de l’État et principe du contradictoire devant le conseil d’État
-# - type: legal_case
-#   id: cconstLoiMacron
-#   authority: Conseil constit.
-#   section:
-#   issued:
-#     year: 2015
-#     month: 08
-#     day: 05
-#   title: Loi pour la croissance, l’activité et l’égalité des chances économiques 
-#   title-short: Loi pour la croissance, l’activité et l’égalité des chances économiques 
-#   number: 2015-715 DC
-#   ECLI: FR:CC:2015:2015.715.DC  
-#   URL: http://www.conseil-constitutionnel.fr/decision-n-2015-715-dc-du-05-aout-2015.144229.html
-#   comments: points 135 à 137 : invalidation des pouvoirs d’enquête de l’Autorité de la concurrence sur l’accès aux données de connexion
+- type: legal_case
+  id: cconstLoiMacron
+  authority: Conseil constit.
+  section:
+  issued:
+    year: 2015
+    month: 08
+    day: 05
+  title: Loi pour la croissance, l’activité et l’égalité des chances économiques 
+  title-short: Loi pour la croissance, l’activité et l’égalité des chances économiques 
+  number: 2015-715 DC
+  ECLI: FR:CC:2015:2015.715.DC  
+  URL: http://www.conseil-constitutionnel.fr/decision-n-2015-715-dc-du-05-aout-2015.144229.html
+  comments: points 135 à 137 : invalidation des pouvoirs d’enquête de l’Autorité de la concurrence sur l’accès aux données de connexion
 # - type: legal_case
 #   id: cconstCovedSA
 #   authority: Conseil constit.
