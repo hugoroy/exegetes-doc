@@ -13,44 +13,44 @@
   ECLI: "ECLI:EU:C:2014:238"
   URL: "http://hudoc.echr.coe.int/eng?i=001-158159"
   comments: 
-- type: legal_case
-  id: ecjDRI
-  authority: "ECJ"
-  section: "g. ch."
-  issued:
-    year: 2014
-    month: 04
-    day: 08
-  title: "Digital Rights Ireland Ltd contre Minister for Communications, Marine and Natural Resources et autres et Kärntner Landesregierung et autres"
-  title-short: "Digital Rights Ireland"
-  number: "C-293/12, C-594/12"
-  ECLI: "ECLI:EU:C:2014:238"
-  URL: "http://curia.europa.eu/juris/documents.jsf?num=C-293/12"
-  comments: 
-- type: legal_case
-  id: echrPruteanu
-  authority: "ECtHR"
-  section: "3rd sect."
-  issued:
-    year: 2015
-    month: 02
-    day: 03
-  title: "Pruteanu v. Romania"
-  title-short: "Pruteanu v. Romania"
-  number: "30181/05"
-  URL: "http://hudoc.echr.coe.int/eng?i=001-150776"
-- type: legal_case
-  id: ecjSCHREMS
-  authority: "ECJ"
-  section: "g. ch."
-  issued:
-    year: 2015
-    month: 10
-    day: 06
-  title: "Maximilian Schrems v Data Protection Commissioner"
-  title-short: "Schrems"
-  number: "C-362/14"
-  ECLI: "ECLI:EU:C:2015:650"
-  URL: "http://curia.europa.eu/juris/documents.jsf?num=C-362/14"
-  comments:
+# - type: legal_case
+#   id: ecjDRI
+#   authority: "ECJ"
+#   section: "g. ch."
+#   issued:
+#     year: 2014
+#     month: 04
+#     day: 08
+#   title: "Digital Rights Ireland Ltd contre Minister for Communications, Marine and Natural Resources et autres et Kärntner Landesregierung et autres"
+#   title-short: "Digital Rights Ireland"
+#   number: "C-293/12, C-594/12"
+#   ECLI: "ECLI:EU:C:2014:238"
+#   URL: "http://curia.europa.eu/juris/documents.jsf?num=C-293/12"
+#   comments: 
+# - type: legal_case
+#   id: echrPruteanu
+#   authority: "ECtHR"
+#   section: "3rd sect."
+#   issued:
+#     year: 2015
+#     month: 02
+#     day: 03
+#   title: "Pruteanu v. Romania"
+#   title-short: "Pruteanu v. Romania"
+#   number: "30181/05"
+#   URL: "http://hudoc.echr.coe.int/eng?i=001-150776"
+# - type: legal_case
+#   id: ecjSCHREMS
+#   authority: "ECJ"
+#   section: "g. ch."
+#   issued:
+#     year: 2015
+#     month: 10
+#     day: 06
+#   title: "Maximilian Schrems v Data Protection Commissioner"
+#   title-short: "Schrems"
+#   number: "C-362/14"
+#   ECLI: "ECLI:EU:C:2015:650"
+#   URL: "http://curia.europa.eu/juris/documents.jsf?num=C-362/14"
+#   comments:
 ...
