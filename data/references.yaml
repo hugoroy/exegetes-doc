@@ -1564,12 +1564,12 @@ references:
     year: 2015
     month: 08
     day: 05
-  title: Loi pour la croissance, l’activité et l’égalité des chances économiques 
-  title-short: Loi pour la croissance, l’activité et l’égalité des chances économiques 
+  title: "Loi pour la croissance, l’activité et l’égalité des chances économiques"
+  title-short: "Loi Macron"
   number: 2015-715 DC
-  ECLI: FR:CC:2015:2015.715.DC  
-  URL: http://www.conseil-constitutionnel.fr/decision-n-2015-715-dc-du-05-aout-2015.144229.html
-  comments: points 135 à 137 : invalidation des pouvoirs d’enquête de l’Autorité de la concurrence sur l’accès aux données de connexion
+  ECLI: "FR:CC:2015:2015.715.DC"
+  URL: "http://www.conseil-constitutionnel.fr/decision-n-2015-715-dc-du-05-aout-2015.144229.html
+  comments: points 135 à 137 : invalidation des pouvoirs d’enquête de l’Autorité de la concurrence sur l’accès aux données de connexion"
 # - type: legal_case
 #   id: cconstCovedSA
 #   authority: Conseil constit.
