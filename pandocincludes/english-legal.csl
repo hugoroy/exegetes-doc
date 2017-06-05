@@ -104,7 +104,7 @@
           <choose>
             <if variable="authority section title-short issued number" match="all">
               <text variable="title-short" font-style="italic" suffix=" "/>
-              <text variable="number" prefix="(" suffix=")"/>
+              <text variable="number" prefix="(" suffix=") "/>
               <text variable="authority" suffix=", "/>
               <text variable="section" suffix= ", "/>
               <date variable="issued" form="text" suffix=", ">
@@ -115,7 +115,7 @@
             </if>
             <else-if variable="authority title-short issued number" match="all">
               <text variable="title-short" font-style="italic" suffix=" "/>
-              <text variable="number" prefix="(" suffix=")"/>
+              <text variable="number" prefix="(" suffix=") "/>
               <text variable="authority" suffix=", "/>
               <date variable="issued" form="text" suffix=", ">
                 <date-part name="day" form="limit-day-ordinals-to-day-1"  suffix=" "/>
@@ -134,12 +134,12 @@
             </else-if>
             <else-if variable="authority title-short number" match="all">
               <text variable="title-short" font-style="italic" suffix=" "/>
-              <text variable="number" prefix="(" suffix=")"/>
+              <text variable="number" prefix="(" suffix=") "/>
               <text variable="authority"/>
             </else-if>
             <else-if variable="authority section title issued number" match="all">
               <text variable="title" font-style="italic" suffix=" "/>
-              <text variable="number" prefix="(" suffix=")"/>
+              <text variable="number" prefix="(" suffix=") "/>
               <text variable="authority" suffix=", "/>
               <text variable="section" suffix= ", "/>
               <date variable="issued" form="text" suffix=", ">
@@ -150,7 +150,7 @@
             </else-if>
             <else-if variable="authority title issued number" match="all">
               <text variable="title" font-style="italic" suffix=" "/>
-              <text variable="number" prefix="(" suffix=")"/>
+              <text variable="number" prefix="(" suffix=") "/>
               <text variable="authority" suffix=", "/>
               <date variable="issued" form="text" suffix=", ">
                 <date-part name="day" form="limit-day-ordinals-to-day-1"  suffix=" "/>
@@ -169,7 +169,7 @@
             </else-if>
             <else-if variable="authority title number" match="all">
               <text variable="title" font-style="italic" suffix=" "/>
-              <text variable="number" prefix="(" suffix=")"/>
+              <text variable="number" prefix="(" suffix=") "/>
               <text variable="authority"/>
             </else-if>
             <else-if variable="authority issued number" match="all">
@@ -179,7 +179,7 @@
                 <date-part name="month" form="short" suffix=" "/>
                 <date-part name="year" form="long" suffix=""/>
               </date>
-              <text variable="number" prefix="(" suffix=")"/>
+              <text variable="number" prefix="(" suffix=") "/>
             </else-if>
             <else-if variable="authority number" match="all">
               <text variable="authority" suffix=", "/>
@@ -390,7 +390,7 @@
           <choose>
             <if variable="authority section title issued number" match="all">
               <text variable="title" font-style="italic" suffix=" "/>
-              <text variable="number" prefix="(" suffix=")"/>
+              <text variable="number" prefix="(" suffix=") "/>
               <text variable="authority" suffix=", "/>
               <text variable="section" suffix= ", "/>
               <date variable="issued" form="text" suffix=", ">
@@ -401,7 +401,7 @@
             </if>
             <else-if variable="authority title issued number" match="all">
               <text variable="title" font-style="italic" suffix=" "/>
-              <text variable="number" prefix="(" suffix=")"/>
+              <text variable="number" prefix="(" suffix=") "/>
               <text variable="authority" suffix=", "/>
               <date variable="issued" form="text" suffix=", ">
                 <date-part name="day" form="limit-day-ordinals-to-day-1"  suffix=" "/>
@@ -420,7 +420,7 @@
             </else-if>
             <else-if variable="authority title number" match="all">
               <text variable="title" font-style="italic" suffix=" "/>
-              <text variable="number" prefix="(" suffix=")"/>
+              <text variable="number" prefix="(" suffix=") "/>
               <text variable="authority"/>
             </else-if>
             <else-if variable="authority issued number" match="all">
@@ -430,7 +430,7 @@
                 <date-part name="month" form="short" suffix=" "/>
                 <date-part name="year" form="long" suffix=""/>
               </date>
-              <text variable="number" prefix="(" suffix=")"/>
+              <text variable="number" prefix="(" suffix=") "/>
             </else-if>
             <else-if variable="authority number" match="all">
               <text variable="authority" suffix=", "/>
