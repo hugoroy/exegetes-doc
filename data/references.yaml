@@ -1565,7 +1565,7 @@ references:
     month: 08
     day: 05
   title: "Loi pour la croissance, l’activité et l’égalité des chances économiques"
-  title-short: "“Loi Macron”"
+  title-short: "Loi pour la croissance, l’activité et l’égalité des chances économiques"
   number: 2015-715 DC
   ECLI: "FR:CC:2015:2015.715.DC"
   URL: "http://www.conseil-constitutionnel.fr/decision-n-2015-715-dc-du-05-aout-2015.144229.html
@@ -1676,4 +1676,53 @@ references:
   title-short: Pruteanu c. Roumanie
   number: n^o^ 30181/05
   URL: http://hudoc.echr.coe.int/eng?i=001-150776
+- type: legal_case
+  id: cconstORGA2011
+  authority: Conseil constit.
+  issued:
+    year: 2011
+    month: 06
+    day: 21
+  title: "Décision modifiant le règlement intérieur sur la procédure suivie devant le Conseil constitutionnel pour les questions prioritaires de constitutionnalité"
+  title-short: "Règlement intérieur sur la procédure QPC"
+  number: 2011-120 ORGA
+  URL : http://www.conseil-constitutionnel.fr/conseil-constitutionnel/francais/les-decisions/acces-par-date/decisions-depuis-1959/2011/2011-120-orga/decision-n-2011-120-orga-du-21-juin-2011.108374.html
+- type: legal_case
+  id: cconstORGA2013
+  authority: Conseil constit.
+  issued:
+    year: 2013
+    month: 11
+    day: 22
+  title: "Décision modifiant le règlement intérieur sur la procédure suivie devant le Conseil constitutionnel pour les questions prioritaires de constitutionnalité"
+  title-short: "règlement intérieur sur la procédure QPC"
+  number: 2013-128 ORGA
+  URL : http://www.conseil-constitutionnel.fr/conseil-constitutionnel/francais/les-decisions/acces-par-date/decisions-depuis-1959/2013/2013-128-orga/decision-n-2013-128-orga-du-22-novembre-2013.138745.html
+- type: legal_case
+  id: cconstMFranck
+  authority: Conseil constit.
+  section: 
+  issued:
+    year: 2013
+    month: 10
+    day: 18
+  title: "M. Franck M. et autres [Célébration du mariage - Absence de « clause de conscience » de l'officier de l'état civil]"
+  title-short: "M. Franck"
+  number: 2013-353 QPC
+  URL : http://www.conseil-constitutionnel.fr/conseil-constitutionnel/francais/les-decisions/acces-par-date/decisions-depuis-1959/2013/2013-353-qpc/decision-n-2013-353-qpc-du-18-octobre-2013.138338.html
+  comments: "illustration de l'intérêt spécial pour une intervention à une QPC. Utilisé dans la procédure “AMF données de connexion”."
+- type: legal_case
+  id: cetatLPM
+  authority: Conseil d’État
+  section: 9^e^ et 10^e^ SSR
+  issued: 
+    year: 2015
+    month: 06
+    day: 05
+  title: "French Data Network et autres"
+  title-short: "French Data Network"
+  number: n^o^ 388134
+  ECLI: FR:XX:2015:388134.20150605
+  URL: https://www.legifrance.gouv.fr/affichJuriAdmin.do?idTexte=CETATEXT000030681333
+  comments: décision de transmission de la QPC sur les articles L. 246-1 à 246-5 CSI. 
 ...
