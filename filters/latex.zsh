@@ -3,6 +3,8 @@
 sed 's#"html","<Llap>"#"latex","\\\\Llap\{«\ \}"#g'| \
     sed 's#"html","<bigskip>"#"latex","\\\\bigskip"#g'| \
     sed 's#"html","<vfill>"#"latex","\\\\vfill"#g'| \
+    sed 's#"html","<clearpage>"#"latex","\\\\clearpage"#g'| \
+    sed 's#"html","<cleardoublepage>"#"latex","\\\\cleardoublepage"#g'| \
     sed 's#"html","<piece>"#"latex","\\\\piece\{"#g' | \
     sed 's#"html","<\/piece>"#"latex","\}"#g' | \
     sed 's#"html","<vref>"#"latex","\\\\vref\{"#g' | \
