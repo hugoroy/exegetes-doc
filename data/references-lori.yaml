@@ -22,7 +22,7 @@ references:
     year: 2014
     month: 04
     day: 08
-  title: "Digital Rights Ireland Ltd v. Minister for Communications, Marine and Natural Resources et autres et Kärntner Landesregierung and others"
+  title: "Digital Rights Ireland Ltd v. Minister for Communications, Marine and Natural Resources and others and Kärntner Landesregierung and others"
   title-short: "Digital Rights Ireland"
   number: "C-293/12, C-594/12"
   ECLI: "ECLI:EU:C:2014:238"
@@ -150,7 +150,7 @@ references:
   title-short: "Johnston v. Chief Constable of the Royal Ulster Constabulary"
   number: 222/84
   ECLI: 
-  URL: http://curia.europa.eu/juris/showPdf.jsf?text=&docid=93487&pageIndex=0&doclang=en&mode=lst&dir=&occ=first&part=1&cid=379237
+  URL: "http://curia.europa.eu/juris/showPdf.jsf?text=&docid=93487&pageIndex=0&doclang=en&mode=lst&dir=&occ=first&part=1&cid=379237"
   comments:
  - type: legal_case
   id: echrSOUZA
@@ -162,7 +162,7 @@ references:
     day: 13
   title: "De Souza Ribeiro v. France"
   title-short:  "Souza Ribeiro v. France"
-  number: 22689/07
+  number: "22689/07"
   ECLI: 
   URL: http://hudoc.echr.coe.int/eng?i=001-115498
   comments:
