@@ -1,6 +1,9 @@
 ---
 references:
-- type: legal_case
+ - type: legal_case
+  ---
+references:
+ - type: legal_case
   id: echrRE
   authority: "ECtHR"
   section: "4^th^ sect."
@@ -14,7 +17,7 @@ references:
   ECLI: "ECLI:EU:C:2014:238"
   URL: "http://hudoc.echr.coe.int/eng?i=001-158159"
   comments: 
-- type: legal_case
+ - type: legal_case
   id: ecjDRI
   authority: "ECJ"
   section: "g. ch."
@@ -22,13 +25,13 @@ references:
     year: 2014
     month: 04
     day: 08
-  title: "Digital Rights Ireland Ltd contre Minister for Communications, Marine and Natural Resources et autres et Kärntner Landesregierung et autres"
+  title: "Digital Rights Ireland Ltd v. Minister for Communications, Marine and Natural Resources et autres et Kärntner Landesregierung and others"
   title-short: "Digital Rights Ireland"
   number: "C-293/12, C-594/12"
   ECLI: "ECLI:EU:C:2014:238"
   URL: "http://curia.europa.eu/juris/documents.jsf?num=C-293/12"
   comments: 
-- type: legal_case
+ - type: legal_case
   id: echrPruteanu
   authority: "ECtHR"
   section: "3^rd^ sect."
@@ -40,7 +43,7 @@ references:
   title-short: "Pruteanu v. Romania"
   number: "30181/05"
   URL: "http://hudoc.echr.coe.int/eng?i=001-150776"
-- type: legal_case
+ - type: legal_case
   id: ecjSCHREMS
   authority: "ECJ"
   section: "g. ch."
@@ -53,5 +56,131 @@ references:
   number: "C-362/14"
   ECLI: "ECLI:EU:C:2015:650"
   URL: "http://curia.europa.eu/juris/documents.jsf?num=C-362/14"
+  comments:
+ - type: legal_case
+  id: ecjAARHUS
+  authority: "ECJ"
+  section: "g. ch."
+  issued:
+    year: 2016
+    month: 11
+    day: 08
+  title: "Lesoochranárske zoskupenie VLK v. Obvodný úrad Trenčín"
+  title-short: "Aarhus"
+  number: "C‑243/15"
+  ECLI: "ECLI:EU:C:2016:838"
+  URL: "http://curia.europa.eu/juris/document/document.jsf?text=&docid=185199&pageIndex=0&doclang=en&mode=lst&dir=&occ=first&part=1&cid=1412226"
+  comments:
+ - type: legal_case
+  id: echrKLASS
+  authority: "ECtHR"
+  section: "Plen."
+  issued:
+    year: 1978
+    month: 09
+    day: 06
+  title: "Klass and others v. Germany"
+  title-short: "Klass and others v. Germany"
+  number: "5029/71"
+  ECLI: 
+  URL: "http://hudoc.echr.coe.int/eng?i=001-57510"
+  comments:
+ - type: legal_case
+  id: echrKENNEDY
+  authority: "ECtHR"
+  section: "4^th^ sect." 
+  issued:
+    year: 2019 
+    month: 05
+    day: 18
+  title: "Kennedy v. the United Kingdom"
+  title-short: "Kennedy v. the United Kingdom"
+  number: 26839/05
+  ECLI: 
+  URL: "http://hudoc.echr.coe.int/eng?i=001-98473"
+  comments:
+ - type: legal_case
+  id: echrWEBER
+  authority: "ECtHR"
+  section: "3^rd^ sect."
+  issued:
+    year: 2006
+    month: 06
+    day: 20
+  title: "Weber and Saravia v. Germany"
+  title-short: "Weber v. Germany"
+  number: "54934/00"
+  ECLI: 
+  URL: "http://hudoc.echr.coe.int/eng?i=001-76586"
+  comments:
+ - type: legal_case
+  id: echrGillian
+  authority: "ECtHR"
+  section: "4^th^ sect."
+  issued:
+    year: 2010
+    month: 01
+    day: 12
+  title: "Gillan and Quinton v. the United Kingdom"
+  title-short: "Gillan v. the United Kingdom"
+  number: "4158/05"
+  ECLI: 
+  URL: "http://hudoc.echr.coe.int/eng?i=001-96585"
+  comments:
+ - type: legal_case
+  id: ECJTele2
+  authority: ECJ
+  section: "g. ch."
+  issued:
+    year: 2016
+    month: 12
+    day: 21
+  title: "Tele2 Sverige AB v. Postoch telestyrelsen et Secretary of State for the Home Department"
+  title-short: "Tele2 Sverige"
+  number: "C-203/15, C-698/15"
+  ECLI: "ECLI:EU:C:2016:970"
+  URL: http://curia.europa.eu/juris/documents.jsf?num=C-362/14
+  comments:
+ - type: legal_case
+  id: ecjJohnston
+  authority: CJEC
+  section:
+  issued:
+    year: 1986
+    month: 05
+    day: 15 
+  title: "Marguerite Johnston v. Chief Constable of the Royal Ulster Constabulary"
+  title-short: "Johnston v. Chief Constable of the Royal Ulster Constabulary"
+  number: 222/84
+  ECLI: 
+  URL: http://curia.europa.eu/juris/showPdf.jsf?text=&docid=93487&pageIndex=0&doclang=en&mode=lst&dir=&occ=first&part=1&cid=379237
+  comments:
+ - type: legal_case
+  id: echrSOUZA
+  authority: ECtHR
+  section: "g. ch."
+  issued:
+    year: 2012 
+    month: 12
+    day: 13
+  title: "De Souza Ribeiro v. France"
+  title-short:  "Souza Ribeiro v. France"
+  number: 22689/07
+  ECLI: 
+  URL: http://hudoc.echr.coe.int/eng?i=001-115498
+  comments:
+ - type: legal_case
+  id: echrLiberty
+  authority: ECtHR
+  section: "4^th^ sect."
+  issued:
+    year: 2008
+    month: 07
+    day: 01
+  title: "Liberty et autres v. United Kingdom"
+  title-short: "Liberty v. UK"
+  number: 58243/00
+  ECLI: 
+  URL: http://hudoc.echr.coe.int/eng?i=001-87208
   comments:
 ...
