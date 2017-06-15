@@ -1,9 +1,6 @@
 ---
 references:
  - type: legal_case
-  ---
-references:
- - type: legal_case
   id: echrRE
   authority: "ECtHR"
   section: "4^th^ sect."
