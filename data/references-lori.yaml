@@ -92,7 +92,7 @@ references:
     day: 18
   title: "Kennedy v. the United Kingdom"
   title-short: "Kennedy v. the United Kingdom"
-  number: 26839/05
+  number: "26839/05"
   ECLI: 
   URL: "http://hudoc.echr.coe.int/eng?i=001-98473"
   comments:
@@ -136,7 +136,7 @@ references:
   title-short: "Tele2 Sverige"
   number: "C-203/15, C-698/15"
   ECLI: "ECLI:EU:C:2016:970"
-  URL: http://curia.europa.eu/juris/documents.jsf?num=C-362/14
+  URL: "http://curia.europa.eu/juris/documents.jsf?num=C-362/14"
   comments:
  - type: legal_case
   id: ecjJohnston
@@ -148,7 +148,7 @@ references:
     day: 15 
   title: "Marguerite Johnston v. Chief Constable of the Royal Ulster Constabulary"
   title-short: "Johnston v. Chief Constable of the Royal Ulster Constabulary"
-  number: 222/84
+  number: "222/84"
   ECLI: 
   URL: "http://curia.europa.eu/juris/showPdf.jsf?text=&docid=93487&pageIndex=0&doclang=en&mode=lst&dir=&occ=first&part=1&cid=379237"
   comments:
@@ -164,7 +164,7 @@ references:
   title-short:  "Souza Ribeiro v. France"
   number: "22689/07"
   ECLI: 
-  URL: http://hudoc.echr.coe.int/eng?i=001-115498
+  URL: "http://hudoc.echr.coe.int/eng?i=001-115498"
   comments:
  - type: legal_case
   id: echrLiberty
@@ -176,8 +176,8 @@ references:
     day: 01
   title: "Liberty et autres v. United Kingdom"
   title-short: "Liberty v. UK"
-  number: 58243/00
+  number: "58243/00"
   ECLI: 
-  URL: http://hudoc.echr.coe.int/eng?i=001-87208
+  URL: "http://hudoc.echr.coe.int/eng?i=001-87208"
   comments:
 ...
