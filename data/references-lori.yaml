@@ -1,6 +1,6 @@
 ---
 references:
- - type: legal_case
+- type: legal_case
   id: echrRE
   authority: "ECtHR"
   section: "4^th^ sect."
@@ -14,7 +14,7 @@ references:
   ECLI: "ECLI:EU:C:2014:238"
   URL: "http://hudoc.echr.coe.int/eng?i=001-158159"
   comments: 
- - type: legal_case
+- type: legal_case
   id: ecjDRI
   authority: "ECJ"
   section: "g. ch."
@@ -28,7 +28,7 @@ references:
   ECLI: "ECLI:EU:C:2014:238"
   URL: "http://curia.europa.eu/juris/documents.jsf?num=C-293/12"
   comments: 
- - type: legal_case
+- type: legal_case
   id: echrPruteanu
   authority: "ECtHR"
   section: "3^rd^ sect."
@@ -40,7 +40,7 @@ references:
   title-short: "Pruteanu v. Romania"
   number: "30181/05"
   URL: "http://hudoc.echr.coe.int/eng?i=001-150776"
- - type: legal_case
+- type: legal_case
   id: ecjSCHREMS
   authority: "ECJ"
   section: "g. ch."
@@ -54,7 +54,7 @@ references:
   ECLI: "ECLI:EU:C:2015:650"
   URL: "http://curia.europa.eu/juris/documents.jsf?num=C-362/14"
   comments:
- - type: legal_case
+- type: legal_case
   id: ecjAARHUS
   authority: "ECJ"
   section: "g. ch."
@@ -68,7 +68,7 @@ references:
   ECLI: "ECLI:EU:C:2016:838"
   URL: "http://curia.europa.eu/juris/document/document.jsf?text=&docid=185199&pageIndex=0&doclang=en&mode=lst&dir=&occ=first&part=1&cid=1412226"
   comments:
- - type: legal_case
+- type: legal_case
   id: echrKLASS
   authority: "ECtHR"
   section: "Plen."
@@ -82,7 +82,7 @@ references:
   ECLI: 
   URL: "http://hudoc.echr.coe.int/eng?i=001-57510"
   comments:
- - type: legal_case
+- type: legal_case
   id: echrKENNEDY
   authority: "ECtHR"
   section: "4^th^ sect." 
@@ -96,7 +96,7 @@ references:
   ECLI: 
   URL: "http://hudoc.echr.coe.int/eng?i=001-98473"
   comments:
- - type: legal_case
+- type: legal_case
   id: echrWEBER
   authority: "ECtHR"
   section: "3^rd^ sect."
@@ -110,7 +110,7 @@ references:
   ECLI: 
   URL: "http://hudoc.echr.coe.int/eng?i=001-76586"
   comments:
- - type: legal_case
+- type: legal_case
   id: echrGillian
   authority: "ECtHR"
   section: "4^th^ sect."
@@ -124,7 +124,7 @@ references:
   ECLI: 
   URL: "http://hudoc.echr.coe.int/eng?i=001-96585"
   comments:
- - type: legal_case
+- type: legal_case
   id: ECJTele2
   authority: ECJ
   section: "g. ch."
@@ -138,7 +138,7 @@ references:
   ECLI: "ECLI:EU:C:2016:970"
   URL: "http://curia.europa.eu/juris/documents.jsf?num=C-362/14"
   comments:
- - type: legal_case
+- type: legal_case
   id: ecjJohnston
   authority: CJEC
   section:
@@ -152,7 +152,7 @@ references:
   ECLI: 
   URL: "http://curia.europa.eu/juris/showPdf.jsf?text=&docid=93487&pageIndex=0&doclang=en&mode=lst&dir=&occ=first&part=1&cid=379237"
   comments:
- - type: legal_case
+- type: legal_case
   id: echrSOUZA
   authority: ECtHR
   section: "g. ch."
@@ -166,7 +166,7 @@ references:
   ECLI: 
   URL: "http://hudoc.echr.coe.int/eng?i=001-115498"
   comments:
- - type: legal_case
+- type: legal_case
   id: echrLiberty
   authority: ECtHR
   section: "4^th^ sect."

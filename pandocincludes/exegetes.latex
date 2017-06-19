@@ -244,6 +244,9 @@ $body$
 
 $if(natbib)$
 $if(bibliography)$
+$for(before-bib)$
+$before-bib$
+$endfor$
 $if(biblio-title)$
 $if(book-class)$
 \renewcommand\bibname{$biblio-title$}

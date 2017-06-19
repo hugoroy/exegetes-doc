@@ -82,7 +82,7 @@ header-includes:
   - \newcommand{\pieces}[2]{{\sffamily\small (prod.\nobreak\hspace{0.035in}n\textsuperscript{os}\nobreak\hspace{0.035in}\textbf{\ref{itm:#1}}\hspace{0.035in}\&\nobreak\hspace{0.035in}\textbf{\ref{itm:#2}})}}
   - \newcounter{paranumero}
   - \newif\ifcounting\countingtrue
-  - \newcommand{\para}[1]{\noindent\ifcounting\refstepcounter{paranumero}\fi{\small\strut\llap{\textsf{\scriptsize \theparanumero}\quad\quad}}\label{#1}}
+  - \newcommand{\para}[1]{\noindent\ifcounting\refstepcounter{paranumero}\fi{\small\leavevmode\llap{\textsf{\scriptsize \theparanumero}\quad\quad}}\label{#1}}
   - \newcommand{\parnum}[1]{¶\ref{#1}}
   - \newcommand{\vparnum}[1]{¶\vref{#1}}
   - \let\oldquote\quote
