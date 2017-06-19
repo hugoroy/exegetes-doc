@@ -139,7 +139,21 @@ references:
   URL: "http://curia.europa.eu/juris/documents.jsf?num=C-362/14"
   comments:
 - type: legal_case
-  id: ecjJohnston
+  id: ecjLESVERTS
+  authority: ECJ
+  section: 
+  issued:
+    year: 1986
+    month: 04
+    day: 23
+  title: "Les Verts c. Parliament"
+  title-short: Les Verts
+  number: 294/83
+  ECLI: ECLI:EU:C:1986:166
+  URL: http://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:61983CJ0294
+  comments:
+- type: legal_case
+  id: ecjJOHNSTON
   authority: CJEC
   section:
   issued:
