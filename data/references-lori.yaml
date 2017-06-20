@@ -194,4 +194,46 @@ references:
   ECLI: 
   URL: "http://hudoc.echr.coe.int/eng?i=001-87208"
   comments:
+- type: legal_case
+  id: echrZakharov
+  authority: ECtHR
+  section: "g. ch."
+  issued:
+    year: 2015
+    month: 12
+    day: 04
+  title: "Roman Zakharov v. Russia"
+  title-short: "Zakharov v. Russia"
+  number: "47143/06"
+  ECLI: 
+  URL: "http://hudoc.echr.coe.int/eng?i=001-160008"
+  comments:
+- type: legal_case
+  id: CEmmeA
+  authority: "French Council of State"
+  section: "Formation spécialisée de la Section du contentieux"
+  issued:
+    year: 2016
+    month: 10
+    day: 19
+  title: "Mme B... A..."
+  title-short: "Mme B... A..."
+  number: "397623"
+  ECLI: 
+  URL:
+  comments: 
+- type: legal_case
+  id: CCInternat
+  authority: "French Constitutional Council"
+  section: 
+  issued:
+    year: 2015
+    month: 11
+    day: 26
+  title: "Décision relative à la Loi relative aux mesures de surveillance des communications électroniques internationales"
+  title-short: "Décision relative à la Loi relative aux mesures de surveillance des communications électroniques internationales"
+  number: "n° 2015-722"
+  ECLI: 
+  URL:
+  comments:
 ...
