@@ -1725,4 +1725,17 @@ references:
   ECLI: FR:XX:2015:388134.20150605
   URL: https://www.legifrance.gouv.fr/affichJuriAdmin.do?idTexte=CETATEXT000030681333
   comments: décision de transmission de la QPC sur les articles L. 246-1 à 246-5 CSI. 
+- type: legal_case
+  id: cconstNumericable
+  authority: Conseil constit.
+  section: 
+  issued:
+    year: 2013
+    month: 07
+    day: 05
+  title: "Société Numéricâble SAS et autre [Pouvoir de sanction de l'Arcep]"
+  title-short: "Société Numéricâble SAS"
+  number: 2013-331 QPC
+  URL : http://www.conseil-constitutionnel.fr/conseil-constitutionnel/francais/les-decisions/acces-par-date/decisions-depuis-1959/2013/2013-331-qpc/decision-n-2013-331-qpc-du-5-juillet-2013.137601.html/
+  comments: "Déclaration d'inconstitutionnalité des dispositions relatives au pouvoir de sanction de l'ARCEP au regard des principes d'indépendance et d'impartialité. Absence d'effet différé de la déclaration. Utilisé dans la procédure “AMF données de connexion”."
 ...
