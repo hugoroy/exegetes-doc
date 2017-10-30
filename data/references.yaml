@@ -1029,7 +1029,7 @@ references:
   title: "French Data Network et autres"
   title-short: "French Data Network et a."
   number: n^os^ 389896 et 389140
-  URL : https://www.legifrance.gouv.fr/affichJuriAdmin.do?oldAction=rechJuriAdmin&idTexte=CETATEXT000032064635&fastReqId=1953450762&fastPos=1
+  URL: https://www.legifrance.gouv.fr/affichJuriAdmin.do?oldAction=rechJuriAdmin&idTexte=CETATEXT000032064635&fastReqId=1953450762&fastPos=1
 - type: legal_case
   id: cetatArtigue
   authority: Conseil d’État
@@ -1474,7 +1474,7 @@ references:
   title: "Délibération n^o^ 2008-174 du 16 juin 2008 portant avis sur un projet de décret en Conseil d’Etat portant création au profit de la direction centrale de la sécurité publique d’un traitement automatisé de données à caractère personnel dénommé « EDVIGE »"
   title-short: "Avis sur le traitement EDVIGE"
   number: n^o^ 2008-174
-  URL : https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000019104139
+  URL: https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000019104139
   container-title: "JORF n^o^ 0152 du 1^er^ juillet 2008"
   container-title-short: "JORF"
 - type: legislation
@@ -1663,7 +1663,7 @@ references:
   title: R.E. c. Royaume-Uni
   title-short: R.E. c. R.-U.
   number: n^o^ 62498/11
-  URL : http://hudoc.echr.coe.int/eng?i=001-158159
+  URL: http://hudoc.echr.coe.int/eng?i=001-158159
 - type: legal_case
   id: cedhPruteanu
   authority: Cour EDH
@@ -1686,7 +1686,7 @@ references:
   title: "Décision modifiant le règlement intérieur sur la procédure suivie devant le Conseil constitutionnel pour les questions prioritaires de constitutionnalité"
   title-short: "Règlement intérieur sur la procédure QPC"
   number: 2011-120 ORGA
-  URL : http://www.conseil-constitutionnel.fr/conseil-constitutionnel/francais/les-decisions/acces-par-date/decisions-depuis-1959/2011/2011-120-orga/decision-n-2011-120-orga-du-21-juin-2011.108374.html
+  URL: http://www.conseil-constitutionnel.fr/conseil-constitutionnel/francais/les-decisions/acces-par-date/decisions-depuis-1959/2011/2011-120-orga/decision-n-2011-120-orga-du-21-juin-2011.108374.html
 - type: legal_case
   id: cconstORGA2013
   authority: Conseil constit.
@@ -1697,7 +1697,7 @@ references:
   title: "Décision modifiant le règlement intérieur sur la procédure suivie devant le Conseil constitutionnel pour les questions prioritaires de constitutionnalité"
   title-short: "règlement intérieur sur la procédure QPC"
   number: 2013-128 ORGA
-  URL : http://www.conseil-constitutionnel.fr/conseil-constitutionnel/francais/les-decisions/acces-par-date/decisions-depuis-1959/2013/2013-128-orga/decision-n-2013-128-orga-du-22-novembre-2013.138745.html
+  URL: http://www.conseil-constitutionnel.fr/conseil-constitutionnel/francais/les-decisions/acces-par-date/decisions-depuis-1959/2013/2013-128-orga/decision-n-2013-128-orga-du-22-novembre-2013.138745.html
 - type: legal_case
   id: cconstMFranck
   authority: Conseil constit.
@@ -1709,7 +1709,7 @@ references:
   title: "M. Franck M. et autres [Célébration du mariage - Absence de « clause de conscience » de l'officier de l'état civil]"
   title-short: "M. Franck"
   number: 2013-353 QPC
-  URL : http://www.conseil-constitutionnel.fr/conseil-constitutionnel/francais/les-decisions/acces-par-date/decisions-depuis-1959/2013/2013-353-qpc/decision-n-2013-353-qpc-du-18-octobre-2013.138338.html
+  URL: http://www.conseil-constitutionnel.fr/conseil-constitutionnel/francais/les-decisions/acces-par-date/decisions-depuis-1959/2013/2013-353-qpc/decision-n-2013-353-qpc-du-18-octobre-2013.138338.html
   comments: "illustration de l'intérêt spécial pour une intervention à une QPC. Utilisé dans la procédure “AMF données de connexion”."
 - type: legal_case
   id: cetatLPM
@@ -1736,6 +1736,240 @@ references:
   title: "Société Numéricâble SAS et autre [Pouvoir de sanction de l'Arcep]"
   title-short: "Société Numéricâble SAS"
   number: 2013-331 QPC
-  URL : http://www.conseil-constitutionnel.fr/conseil-constitutionnel/francais/les-decisions/acces-par-date/decisions-depuis-1959/2013/2013-331-qpc/decision-n-2013-331-qpc-du-5-juillet-2013.137601.html/
+  URL: http://www.conseil-constitutionnel.fr/conseil-constitutionnel/francais/les-decisions/acces-par-date/decisions-depuis-1959/2013/2013-331-qpc/decision-n-2013-331-qpc-du-5-juillet-2013.137601.html/
   comments: "Déclaration d'inconstitutionnalité des dispositions relatives au pouvoir de sanction de l'ARCEP au regard des principes d'indépendance et d'impartialité. Absence d'effet différé de la déclaration. Utilisé dans la procédure “AMF données de connexion”."
+- type: legal_case
+  id: cconstLCEN
+  authority: Conseil constit.
+  section: 
+  issued:
+    year: 2004
+    month: 06
+    day: 10
+  title: "Loi pour la confiance dans l'économie numérique (LCEN)"
+  title-short: "Loi pour la confiance dans l'économie numérique (LCEN)"
+  number: 2004-496 DC
+  URL: http://www.conseil-constitutionnel.fr/conseil-constitutionnel/francais/les-decisions/2004/2004-496-dc/decision-n-2004-496-dc-du-10-juin-2004.901.html
+  comments:
+- type: legal_case
+  id: cconstsecretcorrespelec
+  authority: Conseil constit.
+  section: 
+  issued:
+    year: 2004
+    month: 03
+    day: 04
+  title: "Loi portant adaptation de la justice aux évolutions de la criminalité"
+  title-short: "Loi portant adaptation de la justice aux évolutions de la criminalité"
+  number: 2004-492 DC
+  URL: http://www.conseil-constitutionnel.fr/conseil-con..c/decision-n-2004-492-dc-du-02-mars-2004.897.html
+  comments:
+- type: legal_case
+  id: Bertin
+  authority: Conseil d’État
+  section: 
+  issued:
+    year: 2010
+    month: 05
+    day: 07
+  title: "Bertin"
+  title-short: "Bertin"
+  number: n^o^ 303168
+  URL: https://www.legifrance.gouv.fr/affichJuriAdmin.do?idTexte=CETATEXT000022203540
+  comments:
+- type: legal_case
+  id: officenatforets 
+  authority: Conseil d’État
+  section: 
+  issued:
+    year: 2010
+    month: 07
+    day: 23
+  title: "Office national des forêts"
+  title-short: "Office national des forêts"
+  number: n^o^ 321138
+  URL: https://www.legifrance.gouv.fr/affichJuriAdmin.do?oldAction=rechJuriAdmin&idTexte=CETATEXT000022512972&fastReqId=319313479&fastPos=1
+  comments:
+- type: legal_case
+  id: accesdocadmin 
+  authority: CADA
+  section: 
+  issued:
+    year: 2014
+    month: 03
+    day: 13
+  title: "Avis n^o^ 20134647"
+  title-short: "Avis n^o^ 20134647"
+  number:
+  URL: http://www.cada.fr/avis-20134647,20134647.html
+  comments:
+- type: legal_case
+  id: cadacsa 
+  authority: CADA
+  section: 
+  issued:
+    year: 2006
+    month: 10
+    day: 26
+  title: "Avis n^o^ 20064640"
+  title-short: "Avis n^o^ 20064640"
+  number: 
+  URL: http://www.cada.fr/avis-20064640,20064640.html
+  comments:
+- type: legal_case
+  id: cadacsa2 
+  authority: CADA
+  section: 
+  issued:
+    year: 2009
+    month: 01
+    day: 15
+  title: "Avis n^o^ 20090056"
+  title-short: "Avis n^o^ 20090056"
+  number: 
+  URL: http://www.cada.fr/avis-20090056,20090056.html
+  comments:
+- type: legal_case
+  id: cadacnilaai 
+  authority: CADA
+  section: 
+  issued:
+    year: 2008
+    month: 02
+    day: 21
+  title: "Avis n^o^ 20074963"
+  title-short: "Avis n^o^ 20074963"
+  number: 
+  URL: http://www.cada.fr/avis-20074963,20074963.html
+  comments:
+- type: legal_case
+  id: accesaviscada 
+  authority: CADA
+  section: 
+  issued:
+    year: 2002
+    month: 10
+    day: 03
+  title: "Avis n^o^ 20023955"
+  title-short: "Avis n^o^ 20023955"
+  number: 
+  URL: http://www.cada.fr/avis-20023955,20023955.html
+  comments:
+- type: legal_case
+  id: cconstCST1
+  authority: Conseil constit.
+  section: 
+  issued:
+    year: 2017
+    month: 02
+    day: 10
+  title: "Délit de consultation habituelle de sites internet terroriste"
+  title-short: "Délit de consultation habituelle de sites internet terroriste"
+  number: 2016-611 QPC
+  URL: www.conseil-constitutionnel.fr/decision/2017/2016611qpc.htm
+  comments:
+- type: legal_case
+  id: cconstLOmagistrature
+  authority: Conseil constit.
+  section: 
+  issued:
+    year: 1967
+    month: 01
+    day: 26
+  title: "Loi organique modifiant et complétant l’ordonnance n° 58-1270 du 22 décembre 1958 portant loi organique relative au statut de la magistrature"
+  title-short: "Loi organique modifiant l'ordonnance du 22 décembre 1958"
+  number: 67-31 DC
+  URL: www.conseil-constitutionnel.fr/decision/1967/6731dc.htm
+  comments:
+- type: legal_case
+  id: cconstloienseignementsup
+  authority: Conseil constit.
+  section: 
+  issued:
+    year: 1984
+    month: 01
+    day: 20
+  title: "Loi relative à l’enseignement supérieur"
+  title-short: "Loi relative à l’enseignement supérieur"
+  number: 83-165 DC
+  URL: www.conseil-constitutionnel.fr/decision/1984/83165dc.htm
+  comments:
+- type: legal_case
+  id: cconstfedenergie
+  authority: Conseil constit.
+  section: 
+  issued:
+    year: 2012
+    month: 06
+    day: 18
+  title: "Fédération de l’énergie et des mines – Force ouvrière FNEM FO [Régimes spéciaux de sécurité sociale]"
+  title-short: "Fédération de l’énergie et des mines"
+  number: 2012-254 QPC
+  URL: www.conseil-constitutionnel.fr/decision/2012/2012254qpc.htm
+  comments:
+- type: legal_case
+  id: cconstlibcommunication
+  authority: Conseil constit.
+  section: 
+  issued:
+    year: 1986
+    month: 09
+    day: 18
+  title: "Loi relative à la liberté de communication"
+  title-short: "Loi relative à la liberté de communication"
+  number: 86-217 DC
+  URL: www.conseil-constitutionnel.fr/decision/1986/86217dc.htm
+  comments:
+- type: legal_case
+  id: cconstLF88
+  authority: Conseil constit.
+  section: 
+  issued:
+    year: 1987
+    month: 12
+    day: 30
+  title: "Loi de finances pour 1988"
+  title-short: "Loi de finances pour 1988"
+  number: 87-237 DC
+  URL: www.conseil-constitutionnel.fr/decision/1987/87237dc.htm
+  comments:
+- type: legal_case
+  id: cconstLF99
+  authority: Conseil constit.
+  section: 
+  issued:
+    year: 1998
+    month: 12
+    day: 29
+  title: "Loi de finances pour 1999"
+  title-short: "Loi de finances pour 1999"
+  number: 98-405 DC
+  URL: www.conseil-constitutionnel.fr/decision/1998/98405dc.htm
+  comments:
+- type: legal_case
+  id: cconstresplocal
+  authority: Conseil constit.
+  section: 
+  issued:
+    year: 2004
+    month: 08
+    day: 12
+  title: "Loi relative aux libertés et responsabilités locales"
+  title-short: "Loi relative aux libertés et responsabilités locales"
+  number: 2004-503 DC
+  URL: www.conseil-constitutionnel.fr/decision/2004/2004503dc.htm
+  comments:
+- type: legal_case
+  id: cconstloihandicap
+  authority: Conseil constit.
+  section: 
+  issued:
+    year: 2011
+    month: 07
+    day: 28
+  title: "Loi tendant à améliorer le fonctionnement des maisons départementales des personnes handicapées et portant diverses dispositions relatives à la politique du handicap"
+  title-short: "Loi tendant à améliorer le fonctionnement des maisons départementales des personnes handicapées et portant diverses dispositions relatives à la politique du handicap"
+  number: 2011-639 DC
+  URL: www.conseil-constitutionnel.fr/decision/2011/2011639dc.htm
+  comments:
 ...
