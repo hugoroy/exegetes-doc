@@ -572,9 +572,9 @@ references:
   authority: CJCE
   section: 
   issued:
-    year: 
-    month:
-    day:
+    year: 1987
+    month: 10
+    day: 15
   title: Heylens et autres
   title-short: Heylens
   number: 222/86
@@ -597,12 +597,12 @@ references:
   comments:
 - type: legal_case
   id: cjueUgt
-  authority: CJUE
+  authority: CJCE
   section: 
   issued:
-    year:
-    month:
-    day:
+    year: 2008
+    month: 09
+    day: 11
   title: UGT Rioja et autres
   title-short: UGT Rioja
   number: C-428/06
