@@ -1,19 +1,21 @@
 ---
 title-meta: "Titre du fichier"
+exegetes:
+  aide: https://kiwi.exegetes.eu.org/doku.php?id=outils:howtopadscitron#rediger_le_projet
+  wiki: https://kiwi.exegetes.eu.org/doku.php?id=affaire:FIXME
+  citron : https://citron.exegetes.eu.org/voir.php?type=project&id=FIXME
+  nuage: https://nuage.exegetes.eu.org/index.php/apps/files/?dir=/Commun/FIXME
+include-before:
+  - \input{garde.tex}\setcounter{page}{2}
+  - \tableofcontents\clearpage
+### Pour activer la table des jurisprudences, décommentez les lignes suivantes
+### (c-à-d enlever le `#` en début de ligne) et commentez la dernière ligne csl:
+#include-after:
+#  - # Table des jurisprudences {.unnumbered}
+#  - <div id="refs" class="jpref"></div>
+#csl: ../../exegetesDoc/pandocincludes/french-legal.csl
+csl: ../../exegetesDoc/pandocincludes/french-legal-empty.csl
 ...
-
-<!-- AIDE pour les PADS : <https://pad.exegetes.eu.org/group.html/5/pad.html/g.9PizVXtKx3X5Vpe3$Aide-Pad-Pandoc-markdown>
-       Aide pour écrire en Markdown (gras, titre, citation, etc.): http://commonmark.org/help/ 
-       Manuel d'utilisation : http://pandoc.org/MANUAL.html#pandocs-markdown
-       Test en ligne : http://pandoc.org/try/ 
-       Pour faire un commentaire : ne pas utiliser le signe "%" mais utiliser le style HTML tel qu'ici 
-
-Wiki : https://exegetes.eu.org/amateurs/doku.php?id=affaire:donneescoamf
-Citron : https://citron.exegetes.eu.org/voir.php?type=project&id=13
-Nuage: https://nuage.exegetes.eu.org/index.php/apps/files/?dir=/Commun/Intervention%20QPC%20AMF&fileid=19846
--->
-\input{garde.tex}
-<!-- Table des matières --> \tableofcontents \thispagestyle{empty}\setcounter{page}{0}
 
 
 # Faits
@@ -56,13 +58,6 @@ Prénom <span style="font-variant:small-caps">Nom</span>
 
 
 
-<!-- JP -->
-
-# Table des jurisprudences {.unnumbered}
-
-<div id="refs" class="jpref"></div>
-
-
 ---
 documentclass: report
 classoption: 12pt, oneside
@@ -103,9 +98,6 @@ header-includes:
   - \input{../../exegetesDoc/pandocincludes/titleclass}
   - \parskip=6pt
 euro: true
-include-before:
-  - \pagestyle{plain}
-csl: ../../exegetesDoc/pandocincludes/french-legal.csl
 bibliography: ../../exegetesDoc/pandocincludes/references.yaml
 css: ../../exegetesDoc/pandocincludes/stylesheet.css
 latex-environment:
