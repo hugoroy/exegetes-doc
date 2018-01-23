@@ -1972,4 +1972,84 @@ references:
   number: 2011-639 DC
   URL: www.conseil-constitutionnel.fr/decision/2011/2011639dc.htm
   comments:
+- type: legal_case
+  id: cetatAggoun
+  authority: Conseil d’État
+  section: Ass.
+  issued:
+    year: 2003
+    month: 03
+    day: 05
+  title: Aggoun
+  number: n^o^ 242860
+- type: legal_case
+  id: cjcerewe
+  authority: CJCE
+  section: 
+  issued:
+    year: 1981
+    month: 07
+    day: 07
+  title: "Rewe"
+  title-short: "Rewe"
+  number: 33/76
+  ECLI:
+  URL:
+  comments:
+- type: legal_case
+  id: cjcecomet
+  authority: CJCE
+  section: 
+  issued:
+    year: 1976
+    month: 12
+    day: 16
+  title: "Comet"
+  title-short: "Comet"
+  number: 45/76
+  ECLI:
+  URL:
+  comments:
+- type: legal_case
+  id: cedhairey
+  authority: Cour EDH
+  section: 
+  issued: 
+    year: 1979
+    month: 10
+    day: 09
+  title: "Airey c. Irlande"
+  title-short: "Airey c. Irlande"
+  number: n^o^ 6289/73
+  ECLI:
+  URL: 
+  comments:
+- type: legal_case
+  id: uswikimedia
+  authority: U.S. Court of Appeals
+  section: 3d 193 (4th Cir. 2017)
+  issued: 
+    year: 2017
+    month: 05
+    day: 23
+  title: "Wikimedia Found. v. NSA"
+  title-short: "Wikimedia Found. v. NSA"
+  number: 857 F
+  ECLI:
+  URL: 
+  comments:
+- type: legal_case
+  id: irlandeschrems
+  authority: Irish High Court
+  section: 
+  issued: 
+    year: 2017
+    month: 10
+    day: 03
+  title: "DPC v. Facebook Ireland Limited and Max Schrems"
+  title-short: "DPC v. Facebook Ireland Limited and Max Schrems"
+  number: 2016 No. 4809 P.
+  ECLI:
+  URL: 
+  comments:
 ...
